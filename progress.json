@@ -217,5 +217,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755486670.859719,
+    "completed_at": 1755486671.204446,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
