@@ -70,5 +70,14 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1755484516.053376,
+    "completed_at": 1755484517.695982,
+    "comments": [
+      "Great work on using branches to maintain the care notes for your bonsai trees!"
+    ],
+    "status": "Completed"
   }
 ]
