@@ -235,5 +235,15 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1755486913.144125,
+    "completed_at": 1755486913.510674,
+    "comments": [
+      "Answer for Which file was added? is empty.",
+      "Answer for Which file was edited? is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
