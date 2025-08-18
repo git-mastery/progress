@@ -79,5 +79,14 @@
       "Great work on using branches to maintain the care notes for your bonsai trees!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1755484565.807332,
+    "completed_at": 1755484566.223796,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
