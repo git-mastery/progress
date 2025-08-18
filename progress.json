@@ -288,5 +288,14 @@
       "Great work in identifying how .gitignore works!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1755488353.459069,
+    "completed_at": 1755488353.882057,
+    "comments": [
+      "Congratulations on cracking the case! You found the hacker!"
+    ],
+    "status": "Completed"
   }
 ]
