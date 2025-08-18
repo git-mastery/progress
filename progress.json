@@ -61,5 +61,14 @@
       "Great work with renaming the branches on both your local and remote repositories!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755484374.556387,
+    "completed_at": 1755484375.276001,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
