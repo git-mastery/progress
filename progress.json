@@ -255,5 +255,17 @@
       "Answer for Which file was edited? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1755488245.631229,
+    "completed_at": 1755488246.143618,
+    "comments": [
+      "Answer for What files are missing from Git, but found on your local repository? does not contain all of the right answers.",
+      "Answer for What is responsible for the hidden files? is not right.",
+      "Answer for What is the general pattern used to hide the sensitive/ folder? is not right.",
+      "Answer for What is the pattern used to only show sensitive/names.txt? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
