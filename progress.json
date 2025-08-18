@@ -188,5 +188,15 @@
       "Answer for Which file was edited? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1755486416.592488,
+    "completed_at": 1755486417.411025,
+    "comments": [
+      "Answer for Which file was added? is empty.",
+      "Answer for Which file was edited? is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
