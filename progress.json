@@ -279,5 +279,14 @@
       "Answer for What is the pattern used to only show sensitive/names.txt? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1755488318.074978,
+    "completed_at": 1755488318.167086,
+    "comments": [
+      "Great work in identifying how .gitignore works!"
+    ],
+    "status": "Completed"
   }
 ]
