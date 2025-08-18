@@ -16,5 +16,14 @@
       "All commits are empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755483880.356014,
+    "completed_at": 1755483880.979661,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
