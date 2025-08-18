@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755425506.985209,
+    "completed_at": 1755425507.328069,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755424710.462114,
+    "completed_at": 1755424710.466987,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755424790.971001,
+    "completed_at": 1755424790.975993,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755424804.524654,
+    "completed_at": 1755424804.804598,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
