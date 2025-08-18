@@ -7,5 +7,14 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755483866.554148,
+    "completed_at": 1755483867.168012,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
