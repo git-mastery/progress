@@ -36,69 +36,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1755160641.130023,
-    "completed_at": 1755160641.538663,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755160767.494395,
-    "completed_at": 1755160767.537738,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755160817.059585,
-    "completed_at": 1755160817.093644,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755160847.956843,
-    "completed_at": 1755160847.998767,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755160964.519528,
-    "completed_at": 1755160964.926057,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755161028.620245,
-    "completed_at": 1755161028.658072,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755161170.541396,
-    "completed_at": 1755161170.578923,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "push-over",
     "started_at": 1755163669.329014,
     "completed_at": 1755163670.37688,
@@ -149,6 +86,24 @@
     "completed_at": 1755172801.871933,
     "comments": [
       "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755784291.172523,
+    "completed_at": 1755784291.244607,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755784649.909122,
+    "completed_at": 1755784650.285355,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
   }
