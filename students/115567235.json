@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755781627.955623,
+    "completed_at": 1755781858.911721,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755782449.379885,
+    "completed_at": 1755782449.382556,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755782467.146511,
+    "completed_at": 1755782467.567333,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755783016.047992,
+    "completed_at": 1755783016.446911,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
