@@ -187,5 +187,32 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755786372.338011,
+    "completed_at": 1755786372.340508,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755786899.313897,
+    "completed_at": 1755786900.01956,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755786918.723626,
+    "completed_at": 1755786919.325173,
+    "comments": [
+      "Branch bug-fix is missing the Git Mastery start commit"
+    ],
+    "status": "Error"
   }
 ]
