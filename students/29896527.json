@@ -10,24 +10,6 @@
   },
   {
     "exercise_name": "grocery-shopping",
-    "started_at": 1755483866.554148,
-    "completed_at": 1755483867.168012,
-    "comments": [
-      "All commits are empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1755483880.356014,
-    "completed_at": 1755483880.979661,
-    "comments": [
-      "All commits are empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
     "started_at": 1755483922.245281,
     "completed_at": 1755483922.957445,
     "comments": [
@@ -43,15 +25,6 @@
       "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-branch-rename",
-    "started_at": 1755484155.610155,
-    "completed_at": 1755484163.769377,
-    "comments": [
-      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loadding'"
-    ],
-    "status": "Incomplete"
   },
   {
     "exercise_name": "remote-branch-rename",
@@ -109,24 +82,6 @@
   },
   {
     "exercise_name": "fetch-and-pull",
-    "started_at": 1755485515.752257,
-    "completed_at": 1755485516.21532,
-    "comments": [
-      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755485635.765601,
-    "completed_at": 1755485635.940218,
-    "comments": [
-      "You have not fetched Bob's changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
     "started_at": 1755485646.387318,
     "completed_at": 1755485646.95455,
     "comments": [
@@ -180,36 +135,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "amateur-detective",
-    "started_at": 1755486190.996831,
-    "completed_at": 1755486191.51356,
-    "comments": [
-      "Answer for Which file was added? is empty.",
-      "Answer for Which file was edited? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "amateur-detective",
-    "started_at": 1755486416.592488,
-    "completed_at": 1755486417.411025,
-    "comments": [
-      "Answer for Which file was added? is empty.",
-      "Answer for Which file was edited? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "amateur-detective",
-    "started_at": 1755486434.975504,
-    "completed_at": 1755486435.100511,
-    "comments": [
-      "Answer for Which file was added? is empty.",
-      "Answer for Which file was edited? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "fork-repo",
     "started_at": 1755486531.368619,
     "completed_at": 1755486534.161213,
@@ -220,65 +145,12 @@
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1755486670.859719,
-    "completed_at": 1755486671.204446,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
     "started_at": 1755486688.714477,
     "completed_at": 1755486694.143019,
     "comments": [
       "Great work using .gitignore!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "amateur-detective",
-    "started_at": 1755486913.144125,
-    "completed_at": 1755486913.510674,
-    "comments": [
-      "Answer for Which file was added? is empty.",
-      "Answer for Which file was edited? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "amateur-detective",
-    "started_at": 1755487301.162347,
-    "completed_at": 1755487302.395848,
-    "comments": [
-      "Answer for Which file was added? is empty.",
-      "Answer for Which file was edited? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "nothing-to-hide",
-    "started_at": 1755488245.631229,
-    "completed_at": 1755488246.143618,
-    "comments": [
-      "Answer for What files are missing from Git, but found on your local repository? does not contain all of the right answers.",
-      "Answer for What is responsible for the hidden files? is not right.",
-      "Answer for What is the general pattern used to hide the sensitive/ folder? is not right.",
-      "Answer for What is the pattern used to only show sensitive/names.txt? is not right."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "nothing-to-hide",
-    "started_at": 1755488303.492535,
-    "completed_at": 1755488303.934908,
-    "comments": [
-      "Answer for What files are missing from Git, but found on your local repository? does not contain all of the right answers.",
-      "Answer for What is responsible for the hidden files? is not right.",
-      "Answer for What is the general pattern used to hide the sensitive/ folder? is not right.",
-      "Answer for What is the pattern used to only show sensitive/names.txt? is not right."
-    ],
-    "status": "Incomplete"
   },
   {
     "exercise_name": "nothing-to-hide",
