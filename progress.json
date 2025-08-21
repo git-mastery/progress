@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755768887.497478,
+    "completed_at": 1755768888.132546,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755768578.761295,
+    "completed_at": 1755768579.187889,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
