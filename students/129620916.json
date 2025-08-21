@@ -55,11 +55,38 @@
   },
   {
     "exercise_name": "link-me",
-    "started_at": 1755786116.564759,
-    "completed_at": 1755786116.974765,
+    "started_at": 1755786326.794117,
+    "completed_at": 1755786326.889949,
     "comments": [
       "Missing remote called 'upstream'."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755786935.450015,
+    "completed_at": 1755786935.85951,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755786978.038928,
+    "completed_at": 1755786978.826587,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755787029.177543,
+    "completed_at": 1755787029.589503,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
