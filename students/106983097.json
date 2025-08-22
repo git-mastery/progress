@@ -1,0 +1,85 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755840474.358058,
+    "completed_at": 1755840475.704343,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755838887.473686,
+    "completed_at": 1755838888.323545,
+    "comments": [
+      "Did not add joe.txt",
+      "Did not add bob.txt",
+      "Did not add alice.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755838947.373995,
+    "completed_at": 1755838948.322634,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755840043.946228,
+    "completed_at": 1755840044.775905,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755835562.415599,
+    "completed_at": 1755835562.4307,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755835577.512673,
+    "completed_at": 1755835578.290046,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755845268.408805,
+    "completed_at": 1755845290.909022,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755845933.192185,
+    "completed_at": 1755845933.780109,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755847078.848255,
+    "completed_at": 1755847081.172198,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]
