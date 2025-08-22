@@ -72,9 +72,27 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1755824659.821401,
+    "completed_at": 1755824662.078427,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755825079.044851,
+    "completed_at": 1755825081.303512,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "fetch-and-pull",
-    "started_at": 1755792111.077129,
-    "completed_at": 1755792111.52672,
+    "started_at": 1755825589.100704,
+    "completed_at": 1755825589.545221,
     "comments": [
       "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
     ],
