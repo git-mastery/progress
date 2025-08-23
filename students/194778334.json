@@ -200,20 +200,11 @@
   },
   {
     "exercise_name": "side-track",
-    "started_at": 1755945199.714552,
-    "completed_at": 1755945200.075798,
+    "started_at": 1755946035.522335,
+    "completed_at": 1755946036.123491,
     "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+      "Great work with using git branch and git checkout to fix the bugs!"
     ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1755945609.421411,
-    "completed_at": 1755945609.938422,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
+    "status": "Completed"
   }
 ]
