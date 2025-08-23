@@ -90,5 +90,14 @@
       "The remote repository url you provided either does not exist or is private. Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755951175.302004,
+    "completed_at": 1755951195.895733,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
