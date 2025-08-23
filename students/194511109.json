@@ -79,5 +79,32 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755934150.900941,
+    "completed_at": 1755934151.248767,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755934551.378841,
+    "completed_at": 1755934551.844953,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755934635.755454,
+    "completed_at": 1755934635.899339,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
   }
 ]
