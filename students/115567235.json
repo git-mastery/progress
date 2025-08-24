@@ -97,5 +97,23 @@
       "You should be using ** to match all subfolders to ignore runaway.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1756012107.115351,
+    "completed_at": 1756012109.181206,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1756012675.256819,
+    "completed_at": 1756012677.566163,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
