@@ -1,131 +1,5 @@
 [
   {
-    "exercise_name": "link-me",
-    "started_at": 1755514527.713163,
-    "completed_at": 1755514528.092131,
-    "comments": [
-      "Great work linking remote called 'upstream'."
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755514699.713259,
-    "completed_at": 1755514699.749877,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755514820.490207,
-    "completed_at": 1755514820.526962,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755515005.970435,
-    "completed_at": 1755515006.284806,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1755513533.79059,
-    "completed_at": 1755513543.457449,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1755513567.686506,
-    "completed_at": 1755513595.359139,
-    "comments": [
-      "The remote repository url you provided either does not exist or is private. Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1755513705.048983,
-    "completed_at": 1755513721.670185,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755515355.449692,
-    "completed_at": 1755515355.737338,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755515566.896614,
-    "completed_at": 1755515566.931965,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755515732.098421,
-    "completed_at": 1755515732.532513,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1755516236.404851,
-    "completed_at": 1755516237.674367,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755516917.390591,
-    "completed_at": 1755516921.530309,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755517006.885211,
-    "completed_at": 1755517010.551066,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1755517820.141472,
-    "completed_at": 1755517822.299701,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "clone-repo",
     "started_at": 1755518109.108353,
     "completed_at": 1755518111.269477,
@@ -180,24 +54,6 @@
     "status": "Incomplete"
   },
   {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755519576.407004,
-    "completed_at": 1755519576.908941,
-    "comments": [
-      "You did not pull Alice's changes to your own main branch!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755519738.821907,
-    "completed_at": 1755519739.315946,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "clone-repo",
     "started_at": 1755708185.768422,
     "completed_at": 1755708188.501691,
@@ -226,6 +82,24 @@
   },
   {
     "exercise_name": "fetch-and-pull",
+    "started_at": 1755519576.407004,
+    "completed_at": 1755519576.908941,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755519738.821907,
+    "completed_at": 1755519739.315946,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
     "started_at": 1755708564.115149,
     "completed_at": 1755708564.704164,
     "comments": [
@@ -234,11 +108,265 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "fork-repo",
+    "started_at": 1755517820.141472,
+    "completed_at": 1755517822.299701,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755516917.390591,
+    "completed_at": 1755516921.530309,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755517006.885211,
+    "completed_at": 1755517010.551066,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514527.713163,
+    "completed_at": 1755514528.092131,
+    "comments": [
+      "Great work linking remote called 'upstream'."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514699.713259,
+    "completed_at": 1755514699.749877,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755514820.490207,
+    "completed_at": 1755514820.526962,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515005.970435,
+    "completed_at": 1755515006.284806,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515355.449692,
+    "completed_at": 1755515355.737338,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515566.896614,
+    "completed_at": 1755515566.931965,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755515732.098421,
+    "completed_at": 1755515732.532513,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "link-me",
     "started_at": 1755708669.122486,
     "completed_at": 1755708669.646781,
     "comments": [
       "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755516236.404851,
+    "completed_at": 1755516237.674367,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513533.79059,
+    "completed_at": 1755513543.457449,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513567.686506,
+    "completed_at": 1755513595.359139,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755513705.048983,
+    "completed_at": 1755513721.670185,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756035715.75297,
+    "completed_at": 1756035716.47517,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756035730.238886,
+    "completed_at": 1756035730.72719,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756035826.216423,
+    "completed_at": 1756035826.56565,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756036356.444745,
+    "completed_at": 1756036357.213457,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756036844.157927,
+    "completed_at": 1756036845.021543,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756036861.149563,
+    "completed_at": 1756036861.434445,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756036998.34899,
+    "completed_at": 1756036998.672585,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756037013.061283,
+    "completed_at": 1756037013.556642,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1756038172.733292,
+    "completed_at": 1756038173.35382,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756038355.235032,
+    "completed_at": 1756038355.963562,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756038662.878961,
+    "completed_at": 1756038663.455168,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756038925.805696,
+    "completed_at": 1756038926.108618,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756039081.306606,
+    "completed_at": 1756039081.890614,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756039331.504909,
+    "completed_at": 1756039332.142288,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
   }
