@@ -142,5 +142,23 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756023681.49586,
+    "completed_at": 1756023681.848146,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756023994.098788,
+    "completed_at": 1756023994.63492,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
   }
 ]
