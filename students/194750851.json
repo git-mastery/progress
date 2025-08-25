@@ -34,5 +34,23 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756099933.282911,
+    "completed_at": 1756099933.753177,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756100086.266264,
+    "completed_at": 1756100086.749464,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
