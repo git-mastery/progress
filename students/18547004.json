@@ -1,0 +1,65 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1756187264.222714,
+    "completed_at": 1756187264.734864,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1756187397.962235,
+    "completed_at": 1756187398.106597,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1756185832.635921,
+    "completed_at": 1756185833.065694,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1756186287.102238,
+    "completed_at": 1756186287.570736,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1756186532.537977,
+    "completed_at": 1756186532.986416,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1756184504.256197,
+    "completed_at": 1756184504.618066,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1756192684.189194,
+    "completed_at": 1756192754.513138,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
