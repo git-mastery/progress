@@ -241,5 +241,41 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1756190309.455136,
+    "completed_at": 1756190309.86631,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756190948.854035,
+    "completed_at": 1756190948.962051,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756191986.310686,
+    "completed_at": 1756191986.893934,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756192279.126495,
+    "completed_at": 1756192279.68104,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
