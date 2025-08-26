@@ -151,5 +151,41 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756201703.186138,
+    "completed_at": 1756201703.618114,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756201753.358655,
+    "completed_at": 1756201753.897744,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756202133.409643,
+    "completed_at": 1756202133.904667,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756202570.206212,
+    "completed_at": 1756202570.739703,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
