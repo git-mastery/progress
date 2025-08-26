@@ -187,5 +187,14 @@
       "Great work with renaming the branches on your local repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756215997.531955,
+    "completed_at": 1756215997.957361,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
   }
 ]
