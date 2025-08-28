@@ -79,5 +79,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756365631.62307,
+    "completed_at": 1756365632.019666,
+    "comments": [
+      "You are missing the bug-fix branch"
+    ],
+    "status": "Incomplete"
   }
 ]
