@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755802275.473569,
+    "completed_at": 1755802276.307876,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1756476610.679871,
+    "completed_at": 1756476620.920323,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1756476635.681455,
+    "completed_at": 1756476662.70891,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  }
+]
