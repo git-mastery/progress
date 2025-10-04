@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755711656.009984,
+    "completed_at": 1755711911.602551,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755712470.202863,
+    "completed_at": 1755712470.535109,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755713140.378142,
+    "completed_at": 1755713141.51775,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]

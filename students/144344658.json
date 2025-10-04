@@ -1,0 +1,56 @@
+[
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755082329.613158,
+    "completed_at": 1755082334.088324,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755082680.51233,
+    "completed_at": 1755082685.211904,
+    "comments": [
+      "/home/soumyadip/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755082857.84562,
+    "completed_at": 1755082861.707013,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755083101.034021,
+    "completed_at": 1755083104.788657,
+    "comments": [
+      "The upstream remote does not point to the original repository!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755083206.339993,
+    "completed_at": 1755083210.244781,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755083615.458611,
+    "completed_at": 1755083615.856381,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  }
+]

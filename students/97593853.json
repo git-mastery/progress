@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1754985357.444846,
+    "completed_at": 1754985357.448529,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755487264.708159,
+    "completed_at": 1755487365.796777,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]

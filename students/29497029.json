@@ -1,0 +1,325 @@
+[
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1752212683.612613,
+    "completed_at": 1752212684.029346,
+    "comments": [
+      "Congratulations on cracking the case! You found the hacker!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752211567.04359,
+    "completed_at": 1752211567.619028,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752212167.714266,
+    "completed_at": 1752212168.153105,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752219383.543802,
+    "completed_at": 1752219384.014455,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752219398.323459,
+    "completed_at": 1752219398.792678,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752219412.673131,
+    "completed_at": 1752219412.822632,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1752233916.950414,
+    "completed_at": 1752233917.343852,
+    "comments": [
+      "You haven't edited shopping-list.txt."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1752220514.907482,
+    "completed_at": 1752220515.449185,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1752220710.816469,
+    "completed_at": 1752220710.931748,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1752220170.558918,
+    "completed_at": 1752220170.946186,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1752220208.602568,
+    "completed_at": 1752220208.980903,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1752220323.772251,
+    "completed_at": 1752220327.238252,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "UNSUCCESSFUL"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1752220342.83033,
+    "completed_at": 1752220346.108083,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752219459.891922,
+    "completed_at": 1752219459.895268,
+    "comments": [
+      "/Users/woojiahao/Projects/git-mastery/new-architecture/gitmastery-exercises/remote-control/deleted"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752219515.371976,
+    "completed_at": 1752219515.375458,
+    "comments": [
+      "/Users/woojiahao/Projects/git-mastery/new-architecture/gitmastery-exercises/remote-control/deleted"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752219822.535751,
+    "completed_at": 1752219822.54579,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1752219939.624668,
+    "completed_at": 1752219953.597881,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1752219196.271069,
+    "completed_at": 1752219196.754822,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1752218026.874745,
+    "completed_at": 1752218026.88126,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "ERROR"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1752218091.207432,
+    "completed_at": 1752218091.697768,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753357029.776245,
+    "completed_at": 1753357030.182945,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1753627386.080491,
+    "completed_at": 1753627387.013964,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716291.481914,
+    "completed_at": 1754716292.794328,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716321.858876,
+    "completed_at": 1754716324.271157,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716351.397524,
+    "completed_at": 1754716353.221391,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716380.506476,
+    "completed_at": 1754716382.644088,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716404.807406,
+    "completed_at": 1754716406.849231,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754724399.29212,
+    "completed_at": 1754724399.375014,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754884758.209619,
+    "completed_at": 1754884758.641555,
+    "comments": [
+      "Branch 'try-quick-fix' still exists! Remember to rename it to 'fix-scrolling-bug'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754884789.231078,
+    "completed_at": 1754884789.550747,
+    "comments": [
+      "Branch 'try-quick-fix' was not renamed to 'fix-scrolling-bug'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754884821.382483,
+    "completed_at": 1754884821.439312,
+    "comments": [
+      "Local branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754884843.483511,
+    "completed_at": 1754884849.656388,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loadding'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754884989.012023,
+    "completed_at": 1754884995.181995,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loadding'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1754885037.236119,
+    "completed_at": 1754885043.416944,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757536260.889768,
+    "completed_at": 1757536261.408176,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757573509.258167,
+    "completed_at": 1757573509.700341,
+    "comments": [],
+    "status": "Completed"
+  }
+]

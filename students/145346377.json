@@ -1,0 +1,56 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1756285123.439636,
+    "completed_at": 1756285265.061622,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1756285464.22777,
+    "completed_at": 1756285464.63939,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1756285602.368547,
+    "completed_at": 1756285602.42287,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1756291128.209864,
+    "completed_at": 1756291130.394148,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1756293427.449263,
+    "completed_at": 1756293428.730465,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1756294204.680718,
+    "completed_at": 1756294205.950915,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]

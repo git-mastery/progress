@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755569855.273613,
+    "completed_at": 1755569855.594554,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755573972.604758,
+    "completed_at": 1755573974.834891,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755579853.821787,
+    "completed_at": 1755579855.494512,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755580050.85062,
+    "completed_at": 1755580052.554032,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755580214.200944,
+    "completed_at": 1755580215.614037,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  }
+]

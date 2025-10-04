@@ -1,0 +1,173 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755483820.925824,
+    "completed_at": 1755483821.456713,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755483922.245281,
+    "completed_at": 1755483922.957445,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755484069.599585,
+    "completed_at": 1755484070.060789,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1755484253.927593,
+    "completed_at": 1755484262.22476,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755484374.556387,
+    "completed_at": 1755484375.276001,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1755484516.053376,
+    "completed_at": 1755484517.695982,
+    "comments": [
+      "Great work on using branches to maintain the care notes for your bonsai trees!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1755484565.807332,
+    "completed_at": 1755484566.223796,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755484778.956524,
+    "completed_at": 1755484781.187101,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755485396.453614,
+    "completed_at": 1755485400.70568,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755485646.387318,
+    "completed_at": 1755485646.95455,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755485684.719164,
+    "completed_at": 1755485685.125639,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1755485865.239358,
+    "completed_at": 1755485865.807407,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1755485995.836115,
+    "completed_at": 1755485996.082875,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755486035.358724,
+    "completed_at": 1755486035.864732,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755486068.948016,
+    "completed_at": 1755486069.520649,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755486531.368619,
+    "completed_at": 1755486534.161213,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755486688.714477,
+    "completed_at": 1755486694.143019,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1755488318.074978,
+    "completed_at": 1755488318.167086,
+    "comments": [
+      "Great work in identifying how .gitignore works!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "amateur-detective",
+    "started_at": 1755488353.459069,
+    "completed_at": 1755488353.882057,
+    "comments": [
+      "Congratulations on cracking the case! You found the hacker!"
+    ],
+    "status": "Completed"
+  }
+]

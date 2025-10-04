@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755323425.819692,
+    "completed_at": 1755323426.278875,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755322675.596462,
+    "completed_at": 1755322675.901554,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755400890.540374,
+    "completed_at": 1755400890.976709,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755401179.34887,
+    "completed_at": 1755401179.453135,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  }
+]

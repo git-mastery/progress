@@ -1,0 +1,58 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755755586.095694,
+    "completed_at": 1755755587.50154,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755755678.536783,
+    "completed_at": 1755755679.589163,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755689835.873416,
+    "completed_at": 1755689836.93668,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add joe.txt",
+      "Did not add alice.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755689948.419447,
+    "completed_at": 1755689949.23239,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755767747.273407,
+    "completed_at": 1755767791.219747,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756372208.212126,
+    "completed_at": 1756372209.443753,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  }
+]
