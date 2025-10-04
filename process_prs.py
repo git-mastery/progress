@@ -66,11 +66,23 @@ with ThreadPoolExecutor(max_workers=max_workers) as executor:
 
 
 if processed_users:
-    subprocess.run(["git", "add", "students"], check=True)
-    subprocess.run(
-        ["git", "commit", "-m", f"Update progress for {len(processed_users)} students"],
-        check=True,
+    subprocess.run(["git", "add", "students/"], check=True)
+    # Check if there’s anything to commit
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"],  # exits 1 if changes exist
     )
+    if result.returncode != 0:  # there are staged changes
+        subprocess.run(
+            [
+                "git",
+                "commit",
+                "-m",
+                f"Update progress for {len(processed_users)} students",
+            ],
+            check=True,
+        )
+    else:
+        print("No changes to commit.")
 
 
 with open("user_map.json", "w") as f:
