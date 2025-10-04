@@ -19,13 +19,14 @@ latest_sync_hashes = {}  # These include the user_id: latest commit hash to deci
 with open("latest_sync_hashes.json", "r") as latest_sync_hashes_file:
     latest_sync_hashes = json.load(latest_sync_hashes_file)
 
+print("Latest hashes", latest_sync_hashes)
+
 
 def process_pr(pr):
     username = pr.user.login
     user_id = pr.user.id
     pr_repo = pr.head.repo
     pr_ref = pr.head.ref
-
     head_sha = pr.head.sha
 
     print(
