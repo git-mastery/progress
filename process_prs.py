@@ -16,7 +16,7 @@ os.makedirs("students", exist_ok=True)
 lock = threading.Lock()
 user_map = {}
 latest_sync_hashes = {}  # These include the user_id: latest commit hash to decide if we need to update the data
-with open("latest_sync_hashes.json", "w+") as latest_sync_hashes_file:
+with open("latest_sync_hashes.json", "r") as latest_sync_hashes_file:
     latest_sync_hashes = json.load(latest_sync_hashes_file)
 
 
