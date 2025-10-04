@@ -18,9 +18,7 @@ user_map = {}
 latest_sync_hashes = {}  # These include the user_id: latest commit hash to decide if we need to update the data
 with open("latest_sync_hashes.json", "r") as latest_sync_hashes_file:
     latest_sync_hashes = json.load(latest_sync_hashes_file)
-
-print("Latest hashes", latest_sync_hashes)
-print("51501100" in latest_sync_hashes)
+latest_sync_hashes = {int(key): value for key, value in latest_sync_hashes.items()}
 
 
 def process_pr(pr):
@@ -30,7 +28,6 @@ def process_pr(pr):
     pr_ref = pr.head.ref
     head_sha = pr.head.sha
 
-    print(type(user_id))
     print(
         f"Processing {username} ({user_id}) with head_sha of {head_sha} and existing hash of {latest_sync_hashes.get(user_id, '<not set>')}"
     )
