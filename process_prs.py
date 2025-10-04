@@ -20,6 +20,7 @@ with open("latest_sync_hashes.json", "r") as latest_sync_hashes_file:
     latest_sync_hashes = json.load(latest_sync_hashes_file)
 
 print("Latest hashes", latest_sync_hashes)
+print("51501100" in latest_sync_hashes)
 
 
 def process_pr(pr):
@@ -29,6 +30,7 @@ def process_pr(pr):
     pr_ref = pr.head.ref
     head_sha = pr.head.sha
 
+    print(type(user_id))
     print(
         f"Processing {username} ({user_id}) with head_sha of {head_sha} and existing hash of {latest_sync_hashes.get(user_id, '<not set>')}"
     )
@@ -62,10 +64,12 @@ prs = repo.get_pulls(state="open", base="main")
 max_workers = 8
 
 processed_users = []
+total_processed = 0
 with ThreadPoolExecutor(max_workers=max_workers) as executor:
     futures = {executor.submit(process_pr, pr): pr for pr in prs}
     for future in as_completed(futures):
         processed_username = future.result()
+        total_processed += 1
         if processed_username is not None:
             processed_users.append(processed_username)
 
@@ -119,3 +123,4 @@ else:
     print("No changes to latest_sync_hashes.json")
 
 subprocess.run(["git", "push", "origin", "tracker"], check=True)
+print(f"Processed {total_processed} students!")
