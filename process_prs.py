@@ -28,8 +28,12 @@ def process_pr(pr):
 
     head_sha = pr.head.sha
 
+    print(
+        f"Processing {username} with head_sha of {head_sha} and existing hash of {latest_sync_hashes.get(user_id, '<not set>')}"
+    )
     with lock:
         if user_id in latest_sync_hashes and latest_sync_hashes[user_id] == head_sha:
+            print(f"Skipping {username} because latest already included")
             # Means we already saw the latest
             return None
 
