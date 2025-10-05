@@ -33,6 +33,7 @@ def process_pr(pr):
     )
     with lock:
         if user_id in latest_sync_hashes and latest_sync_hashes[user_id] == head_sha:
+            user_map[user_id] = username
             print(f"Skipping {username} because latest already included")
             # Means we already saw the latest
             return None
