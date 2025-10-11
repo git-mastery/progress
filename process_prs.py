@@ -102,7 +102,8 @@ def main():
             if processed_username is not None:
                 processed_users.append(processed_username)
 
-    if processed_users and has_change_cached():
+    print(processed_users)
+    if processed_users:
         add_and_commit(
             "students/", f"Update progress for {len(processed_users)} students"
         )
