@@ -1,10 +1,28 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1760065583.592447,
-    "completed_at": 1760065584.904812,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760338990.730829,
+    "completed_at": 1760338991.309329,
     "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760339017.098725,
+    "completed_at": 1760339017.377379,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1760339038.239041,
+    "completed_at": 1760339038.53089,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
   },
@@ -67,29 +85,65 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760338990.730829,
-    "completed_at": 1760338991.309329,
+    "exercise_name": "under-control",
+    "started_at": 1760065583.592447,
+    "completed_at": 1760065584.904812,
     "comments": [
-      "There are no grocery list items removed from the shopping list."
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693290.276022,
+    "completed_at": 1760693308.867182,
+    "comments": [
+      "That is not the right Github url!"
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760339017.098725,
-    "completed_at": 1760339017.377379,
+    "exercise_name": "remote-control",
+    "started_at": 1760693315.28427,
+    "completed_at": 1760693338.943199,
     "comments": [
-      "There are no grocery list items removed from the shopping list."
+      "That is not the right Github url!"
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1760339038.239041,
-    "completed_at": 1760339038.53089,
+    "exercise_name": "remote-control",
+    "started_at": 1760693347.692445,
+    "completed_at": 1760693363.338826,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693378.110705,
+    "completed_at": 1760693412.891414,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693423.582376,
+    "completed_at": 1760693426.444518,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693431.947229,
+    "completed_at": 1760693435.941028,
+    "comments": [
+      "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
   }
