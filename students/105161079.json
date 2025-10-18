@@ -185,8 +185,8 @@
   },
   {
     "exercise_name": "push-over",
-    "started_at": 1760756564.037188,
-    "completed_at": 1760756564.938335,
+    "started_at": 1760767853.734623,
+    "completed_at": 1760767854.320709,
     "comments": [
       "You should have made a separate commit!"
     ],
@@ -194,20 +194,38 @@
   },
   {
     "exercise_name": "push-over",
-    "started_at": 1760756915.962142,
-    "completed_at": 1760756917.803042,
+    "started_at": 1760767896.66025,
+    "completed_at": 1760767897.59149,
     "comments": [
-      "You should have made a separate commit!"
+      "You might have forgotten to push your commit to the remote repository."
     ],
     "status": "Incomplete"
   },
   {
     "exercise_name": "push-over",
-    "started_at": 1760757048.96771,
-    "completed_at": 1760757051.437738,
+    "started_at": 1760767908.277234,
+    "completed_at": 1760767909.227431,
     "comments": [
-      "Cmd('git') failed due to: exit code(128)\n  cmdline: git fetch -v -- origin\n  stderr: 'fatal: repository 'https://github.com/VikramGoyal23/VikramGoyal23-gitmastery-push-over.git/' not found'"
+      "Great work pushing changes to the remote!"
     ],
-    "status": "Error"
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767966.401582,
+    "completed_at": 1760767967.256722,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767978.231821,
+    "completed_at": 1760767979.096074,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
