@@ -182,5 +182,32 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760756564.037188,
+    "completed_at": 1760756564.938335,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760756915.962142,
+    "completed_at": 1760756917.803042,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760757048.96771,
+    "completed_at": 1760757051.437738,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git fetch -v -- origin\n  stderr: 'fatal: repository 'https://github.com/VikramGoyal23/VikramGoyal23-gitmastery-push-over.git/' not found'"
+    ],
+    "status": "Error"
   }
 ]
