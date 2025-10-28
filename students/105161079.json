@@ -27,208 +27,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1760100267.140785,
-    "completed_at": 1760100267.383739,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1760100279.093365,
-    "completed_at": 1760100279.33785,
-    "comments": [
-      "Did not add bob.txt",
-      "Did not add alice.txt",
-      "Did not add carrey.txt",
-      "Did not add joe.txt",
-      "Did not add jim.txt"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1760157513.170734,
-    "completed_at": 1760157513.757912,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1760157559.308127,
-    "completed_at": 1760157559.863572,
-    "comments": [
-      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1760157568.961513,
-    "completed_at": 1760157569.231616,
-    "comments": [
-      "You need to unstage all three attendance files for Josh, Adam, and Mary."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1760157609.774296,
-    "completed_at": 1760157610.051578,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1760065583.592447,
-    "completed_at": 1760065584.904812,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693290.276022,
-    "completed_at": 1760693308.867182,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693315.28427,
-    "completed_at": 1760693338.943199,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693347.692445,
-    "completed_at": 1760693363.338826,
-    "comments": [
-      "The remote repository url you provided either does not exist or is private. Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693378.110705,
-    "completed_at": 1760693412.891414,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693423.582376,
-    "completed_at": 1760693426.444518,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1760693431.947229,
-    "completed_at": 1760693435.941028,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1760754182.149892,
-    "completed_at": 1760754184.280211,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1760754202.375902,
-    "completed_at": 1760754203.36801,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1760754237.597517,
-    "completed_at": 1760754238.08587,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1760754250.04512,
-    "completed_at": 1760754250.558003,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1760767853.734623,
-    "completed_at": 1760767854.320709,
-    "comments": [
-      "You should have made a separate commit!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1760767896.66025,
-    "completed_at": 1760767897.59149,
-    "comments": [
-      "You might have forgotten to push your commit to the remote repository."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1760767908.277234,
-    "completed_at": 1760767909.227431,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1760767966.401582,
-    "completed_at": 1760767967.256722,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1760767978.231821,
-    "completed_at": 1760767979.096074,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "ignoring-somethings",
     "started_at": 1760810054.156327,
     "completed_at": 1760810054.426344,
@@ -349,6 +147,271 @@
     "completed_at": 1760810998.901605,
     "comments": [
       "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1760754182.149892,
+    "completed_at": 1760754184.280211,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1760754202.375902,
+    "completed_at": 1760754203.36801,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1760754237.597517,
+    "completed_at": 1760754238.08587,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1760754250.04512,
+    "completed_at": 1760754250.558003,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767853.734623,
+    "completed_at": 1760767854.320709,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767896.66025,
+    "completed_at": 1760767897.59149,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767908.277234,
+    "completed_at": 1760767909.227431,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767966.401582,
+    "completed_at": 1760767967.256722,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1760767978.231821,
+    "completed_at": 1760767979.096074,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693290.276022,
+    "completed_at": 1760693308.867182,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693315.28427,
+    "completed_at": 1760693338.943199,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693347.692445,
+    "completed_at": 1760693363.338826,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693378.110705,
+    "completed_at": 1760693412.891414,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693423.582376,
+    "completed_at": 1760693426.444518,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1760693431.947229,
+    "completed_at": 1760693435.941028,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760100267.140785,
+    "completed_at": 1760100267.383739,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760100279.093365,
+    "completed_at": 1760100279.33785,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add alice.txt",
+      "Did not add carrey.txt",
+      "Did not add joe.txt",
+      "Did not add jim.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1760157513.170734,
+    "completed_at": 1760157513.757912,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1760157559.308127,
+    "completed_at": 1760157559.863572,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1760157568.961513,
+    "completed_at": 1760157569.231616,
+    "comments": [
+      "You need to unstage all three attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1760157609.774296,
+    "completed_at": 1760157610.051578,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1760065583.592447,
+    "completed_at": 1760065584.904812,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1761645351.525475,
+    "completed_at": 1761645354.621996,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1761645778.840562,
+    "completed_at": 1761645782.965906,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646045.165112,
+    "completed_at": 1761646047.745148,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646132.432958,
+    "completed_at": 1761646135.806542,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646166.984831,
+    "completed_at": 1761646168.983248,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646226.664374,
+    "completed_at": 1761646229.165879,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1761646578.012844,
+    "completed_at": 1761646578.544119,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   }
