@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1761693789.688507,
+    "completed_at": 1761693789.691552,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1761693812.769341,
+    "completed_at": 1761693813.258477,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1761999156.912953,
+    "completed_at": 1761999385.549998,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1762000081.00053,
+    "completed_at": 1762000082.261314,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  }
+]
