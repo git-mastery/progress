@@ -25,5 +25,36 @@
       "The main branch is missing the dangers-to-bonsais.txt file"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767189207.72228,
+    "completed_at": 1767189215.526867,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?",
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767189858.286283,
+    "completed_at": 1767189867.559292,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767190061.743272,
+    "completed_at": 1767190074.956394,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
   }
 ]
