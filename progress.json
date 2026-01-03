@@ -264,5 +264,14 @@
       "You are missing the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1767458140.124598,
+    "completed_at": 1767458143.798026,
+    "comments": [
+      "The 'visitor-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
