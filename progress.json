@@ -282,5 +282,14 @@
       "The init operation is not undone."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1767531694.659228,
+    "completed_at": 1767531696.262834,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
