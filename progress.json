@@ -273,5 +273,14 @@
       "The 'visitor-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1767531677.23451,
+    "completed_at": 1767531680.058801,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
   }
 ]
