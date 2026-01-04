@@ -1,5 +1,178 @@
 [
   {
+    "exercise_name": "branch-bender",
+    "started_at": 1753460843.161749,
+    "completed_at": 1753460843.528213,
+    "comments": [
+      "You need to start merging the feature branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1753461035.901581,
+    "completed_at": 1753461035.965168,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755283808.654221,
+    "completed_at": 1755283808.999258,
+    "comments": [
+      "Branch 'feature/login' is missing, did you correctly rename the branch 'login' to 'feature/login'?"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755283837.492641,
+    "completed_at": 1755283837.532604,
+    "comments": [
+      "Branch 'login' was not renamed to 'feature/login'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1755400677.234564,
+    "completed_at": 1755400677.575724,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716161.493398,
+    "completed_at": 1754716163.442582,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716206.560741,
+    "completed_at": 1754716208.139073,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716300.086757,
+    "completed_at": 1754716301.85572,
+    "comments": [
+      "The upstream remote does not point to the original repository!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1754716380.018885,
+    "completed_at": 1754716381.600302,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1754310431.996876,
+    "completed_at": 1754310432.069729,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1754310532.938952,
+    "completed_at": 1754310533.304299,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1754310563.546648,
+    "completed_at": 1754310563.627743,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754727476.271303,
+    "completed_at": 1754727476.605923,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754727561.377894,
+    "completed_at": 1754727561.787104,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754727622.111381,
+    "completed_at": 1754727622.181094,
+    "comments": [
+      "You have not fetched Bob's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754727651.12029,
+    "completed_at": 1754727651.191559,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1754728202.860502,
+    "completed_at": 1754728203.23354,
+    "comments": [
+      "You should not have pulled Bob's changes to your own main branch!",
+      "Reset the exercise using 'gitmastery progress reset' to try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754320930.212549,
+    "completed_at": 1754320931.652851,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1754321001.917595,
+    "completed_at": 1754321003.629138,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1752513634.657263,
     "completed_at": 1752513635.036627,
@@ -45,6 +218,44 @@
     "status": "SUCCESSFUL"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160526.062432,
+    "completed_at": 1753160526.77373,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160590.137055,
+    "completed_at": 1753160590.835894,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160715.690253,
+    "completed_at": 1753160716.516608,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1753160982.271573,
+    "completed_at": 1753160983.444096,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "link-me",
     "started_at": 1752835998.474628,
     "completed_at": 1752835998.837657,
@@ -54,6 +265,462 @@
     "status": "SUCCESSFUL"
   },
   {
+    "exercise_name": "link-me",
+    "started_at": 1755508304.309388,
+    "completed_at": 1755508304.610571,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755508413.610242,
+    "completed_at": 1755508413.644831,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755522269.928057,
+    "completed_at": 1755522270.234704,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755522342.078475,
+    "completed_at": 1755522342.11128,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755522462.769623,
+    "completed_at": 1755522462.799281,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560555.51975,
+    "completed_at": 1757560555.935351,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? is empty.",
+      "Answer for What is the commit message of the commit 0bc82293aa98284df28887615c609fe4b867068c? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560631.542988,
+    "completed_at": 1757560631.666541,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? did not match any of the accepted answers.",
+      "Answer for What is the commit message of the commit 0bc82293aa98284df28887615c609fe4b867068c? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560680.216689,
+    "completed_at": 1757560680.305728,
+    "comments": [
+      "Answer for What is the commit message of the commit 0bc82293aa98284df28887615c609fe4b867068c? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560727.408592,
+    "completed_at": 1757560727.490129,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560771.066636,
+    "completed_at": 1757560771.170225,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560804.005883,
+    "completed_at": 1757560804.08808,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757560845.668803,
+    "completed_at": 1757560845.761879,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757561010.993956,
+    "completed_at": 1757561011.375172,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757561083.321388,
+    "completed_at": 1757561083.408131,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1757773388.270582,
+    "completed_at": 1757773388.713705,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1767513468.214259,
+    "completed_at": 1767513470.822858,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 81480940ebd043c5c5a675a0d86bc4c55e6ee6ac? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759552988.449451,
+    "completed_at": 1759552989.032549,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759553019.473265,
+    "completed_at": 1759553019.782095,
+    "comments": [
+      "You need to merge 'feature-search' first!",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759553418.725798,
+    "completed_at": 1759553420.569413,
+    "comments": [
+      "You need to merge 'feature-delete' second!",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759553616.174004,
+    "completed_at": 1759553616.449365,
+    "comments": [
+      "Branch 'list' still exists! Remember to rename it to 'feature-list'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759553660.945072,
+    "completed_at": 1759553661.223036,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759553832.394983,
+    "completed_at": 1759553834.197176,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759565951.480862,
+    "completed_at": 1759565952.020003,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759566031.196648,
+    "completed_at": 1759566031.47569,
+    "comments": [
+      "You need to merge 'feature-delete' second!",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759566120.245231,
+    "completed_at": 1759566120.532209,
+    "comments": [
+      "Branch 'feature-search' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759566152.424845,
+    "completed_at": 1759566152.764105,
+    "comments": [
+      "Branch 'list' still exists! Remember to rename it to 'feature-list'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1759566171.330512,
+    "completed_at": 1759566171.60933,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555259.899619,
+    "completed_at": 1759555260.448228,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555359.819818,
+    "completed_at": 1759555360.08324,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555483.002129,
+    "completed_at": 1759555483.260835,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555746.344289,
+    "completed_at": 1759555748.110545,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555801.831691,
+    "completed_at": 1759555802.116309,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759555938.61167,
+    "completed_at": 1759555938.879524,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759556433.556929,
+    "completed_at": 1759556435.357142,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759556518.015244,
+    "completed_at": 1759556518.293457,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759556699.812838,
+    "completed_at": 1759556700.094382,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759565912.998369,
+    "completed_at": 1759565913.528439,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718407.941518,
+    "completed_at": 1759718408.513362,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718577.066912,
+    "completed_at": 1759718578.668984,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718701.395968,
+    "completed_at": 1759718701.673087,
+    "comments": [
+      "Branch 'feature-search' still exists.",
+      "Branch 'feature-delete' still exists.",
+      "Branch 'list' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718744.692111,
+    "completed_at": 1759718745.244731,
+    "comments": [
+      "Branch 'list' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718763.950182,
+    "completed_at": 1759718764.200751,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759718931.738962,
+    "completed_at": 1759718933.356305,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759719192.284127,
+    "completed_at": 1759719192.826219,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759992628.122707,
+    "completed_at": 1759992629.070544,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759992840.353554,
+    "completed_at": 1759992840.669856,
+    "comments": [
+      "Branch 'feature-search' still exists.",
+      "Branch 'feature-delete' still exists.",
+      "Branch 'list' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759992898.459517,
+    "completed_at": 1759992900.26385,
+    "comments": [
+      "Branch 'list' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759992918.369649,
+    "completed_at": 1759992919.332405,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759993232.769682,
+    "completed_at": 1759993234.904352,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1759994878.199421,
+    "completed_at": 1759994880.220426,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "push-over",
     "started_at": 1752835770.843608,
     "completed_at": 1752835774.553131,
@@ -61,6 +728,42 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1757777379.79559,
+    "completed_at": 1757777380.367455,
+    "comments": [
+      "Branch 'try-quick-fix' still exists! Remember to rename it to 'fix-scrolling-bug'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1757777767.356403,
+    "completed_at": 1757777774.755053,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loadding'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1757777919.595335,
+    "completed_at": 1757777925.377886,
+    "comments": [
+      "Remote branch 'improve-loading' is missing, did you correctly push the renamed branch to the remote?"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1757777967.576207,
+    "completed_at": 1757777973.355485,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
   },
   {
     "exercise_name": "remote-control",
@@ -79,6 +782,78 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "SUCCESSFUL"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1753458152.810251,
+    "completed_at": 1753458153.218941,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1753458196.437441,
+    "completed_at": 1753458196.498407,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1753458252.042232,
+    "completed_at": 1753458252.135263,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1753458457.329466,
+    "completed_at": 1753458457.695306,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1755255623.595741,
+    "completed_at": 1755255624.097712,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756037980.450843,
+    "completed_at": 1756037980.801915,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756038015.628242,
+    "completed_at": 1756038015.726435,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756363914.552168,
+    "completed_at": 1756363914.959575,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   },
   {
     "exercise_name": "stage-fright",
@@ -164,41 +939,48 @@
     "status": "SUCCESSFUL"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753160526.062432,
-    "completed_at": 1753160526.77373,
+    "exercise_name": "undo-init",
+    "started_at": 1767513859.430388,
+    "completed_at": 1767513862.03523,
     "comments": [
-      "You have not made any commits yet!"
+      "The init operation is not undone."
     ],
     "status": "Incomplete"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753160590.137055,
-    "completed_at": 1753160590.835894,
+    "exercise_name": "undo-init",
+    "started_at": 1767513920.481433,
+    "completed_at": 1767513921.906991,
     "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
+      "Exercise is not a Git repository"
     ],
-    "status": "Incomplete"
+    "status": "Error"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753160715.690253,
-    "completed_at": 1753160716.516608,
+    "exercise_name": "undo-init",
+    "started_at": 1767514034.27309,
+    "completed_at": 1767514035.711147,
     "comments": [
-      "You are still ignoring many/file22.txt."
+      "Exercise is not a Git repository"
     ],
-    "status": "Incomplete"
+    "status": "Error"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1753160982.271573,
-    "completed_at": 1753160983.444096,
+    "exercise_name": "fork-repo",
+    "started_at": 1767514318.13163,
+    "completed_at": 1767514320.94718,
     "comments": [
-      "Great work using .gitignore!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1767514363.935395,
+    "completed_at": 1767514365.34512,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
