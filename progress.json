@@ -417,5 +417,14 @@
       "No commits were made in the 'visitor-line' branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1767618635.488593,
+    "completed_at": 1767618638.483461,
+    "comments": [
+      "The 'sleep-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
