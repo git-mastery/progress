@@ -564,5 +564,14 @@
       "Branch 'list' still exists! Remember to rename it to 'feature-list'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1767621468.653616,
+    "completed_at": 1767621471.596388,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
