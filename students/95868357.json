@@ -257,15 +257,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "side-track",
-    "started_at": 1767425459.885082,
-    "completed_at": 1767425462.823506,
-    "comments": [
-      "You are missing the bug-fix branch"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-previous",
     "started_at": 1767458140.124598,
     "completed_at": 1767458143.798026,
@@ -374,33 +365,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "side-track",
-    "started_at": 1767617950.04669,
-    "completed_at": 1767617953.187411,
-    "comments": [
-      "You are missing the bug-fix branch"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1767618041.624165,
-    "completed_at": 1767618044.870204,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1767618276.506435,
-    "completed_at": 1767618278.437821,
-    "comments": [
-      "Great work with using git branch and git checkout to fix the bugs!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "branch-previous",
     "started_at": 1767618474.107606,
     "completed_at": 1767618477.226351,
@@ -460,6 +424,115 @@
     "completed_at": 1767619936.999676,
     "comments": [
       "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1767620844.089274,
+    "completed_at": 1767620847.113223,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1767620912.256061,
+    "completed_at": 1767620913.74862,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1767621006.161487,
+    "completed_at": 1767621009.167674,
+    "comments": [
+      "Branch 'login' still exists! Remember to rename it to 'feature/login'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1767621079.130477,
+    "completed_at": 1767621080.466137,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1767621137.139723,
+    "completed_at": 1767621140.29129,
+    "comments": [
+      "Branch 'optimization-approach-1' still exists! Remember to delete it"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1767621200.756311,
+    "completed_at": 1767621202.099362,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1767621591.137514,
+    "completed_at": 1767621594.083774,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1767621686.977618,
+    "completed_at": 1767621689.992416,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1767621706.429313,
+    "completed_at": 1767621709.739861,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got '<Missing commit>' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1767621765.936179,
+    "completed_at": 1767621769.203177,
+    "comments": [
+      "Branch 'feature-search' still exists.",
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1767621805.231918,
+    "completed_at": 1767621806.768807,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1767622257.667627,
+    "completed_at": 1767622260.91656,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
     ],
     "status": "Incomplete"
   }
