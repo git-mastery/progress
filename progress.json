@@ -444,5 +444,14 @@
       "You need to start merging the feature branches."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1767619512.254632,
+    "completed_at": 1767619515.320094,
+    "comments": [
+      "You are missing some merges"
+    ],
+    "status": "Incomplete"
   }
 ]
