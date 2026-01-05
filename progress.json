@@ -525,5 +525,14 @@
       "Expected commit message of 'Add the search feature', got '<Missing commit>' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1767621686.977618,
+    "completed_at": 1767621689.992416,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
