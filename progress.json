@@ -257,15 +257,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "side-track",
-    "started_at": 1767425459.885082,
-    "completed_at": 1767425462.823506,
-    "comments": [
-      "You are missing the bug-fix branch"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-previous",
     "started_at": 1767458140.124598,
     "completed_at": 1767458143.798026,
@@ -370,33 +361,6 @@
     "completed_at": 1767540802.071598,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1767617950.04669,
-    "completed_at": 1767617953.187411,
-    "comments": [
-      "You are missing the bug-fix branch"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1767618041.624165,
-    "completed_at": 1767618044.870204,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1767618276.506435,
-    "completed_at": 1767618278.437821,
-    "comments": [
-      "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
   },
