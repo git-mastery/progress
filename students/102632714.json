@@ -25,5 +25,39 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1767703758.749427,
+    "completed_at": 1767703759.989246,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1767704218.476891,
+    "completed_at": 1767704219.752028,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1767704745.894046,
+    "completed_at": 1767704747.168642,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1767706402.721374,
+    "completed_at": 1767706404.52089,
+    "comments": [],
+    "status": "Completed"
   }
 ]

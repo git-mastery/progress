@@ -544,5 +544,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1767705318.285045,
+    "completed_at": 1767705319.777071,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
