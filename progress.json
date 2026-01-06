@@ -401,15 +401,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-bender",
-    "started_at": 1767619815.365977,
-    "completed_at": 1767619816.677046,
-    "comments": [
-      "Great work with merging the branches in order! Try running the HTML files locally!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "branch-forward",
     "started_at": 1767619841.726739,
     "completed_at": 1767619844.611812,
@@ -562,14 +553,5 @@
       "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1767714413.917837,
-    "completed_at": 1767714415.448405,
-    "comments": [
-      "Great work with merging the branches in order! Try running the HTML files locally!"
-    ],
-    "status": "Completed"
   }
 ]
