@@ -27,74 +27,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239042.432315,
-    "completed_at": 1755239044.479874,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239079.811074,
-    "completed_at": 1755239081.95848,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239362.09874,
-    "completed_at": 1755239363.85937,
-    "comments": [
-      "The upstream remote does not point to the original repository!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755239447.212266,
-    "completed_at": 1755239449.38081,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "conflict-mediator",
     "started_at": 1755921915.976242,
     "completed_at": 1755921916.089074,
     "comments": [
       "Great work resolving the merge conflict!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755241707.769966,
-    "completed_at": 1755241708.135628,
-    "comments": [
-      "'CommitHelper' object has no attribute 'commit_or_none'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755242082.472349,
-    "completed_at": 1755242082.809512,
-    "comments": [
-      "'CommitHelper' object has no attribute 'commit_or_none'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1755329322.40763,
-    "completed_at": 1755329322.899543,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   },
@@ -344,6 +281,42 @@
     "completed_at": 1767853173.791042,
     "comments": [
       "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1767854591.704503,
+    "completed_at": 1767854594.8061,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1767854918.81152,
+    "completed_at": 1767854921.87111,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1767854939.800352,
+    "completed_at": 1767854944.300731,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1767855984.67617,
+    "completed_at": 1767855986.150257,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   }
