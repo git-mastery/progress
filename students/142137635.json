@@ -126,37 +126,10 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1755230237.72176,
-    "completed_at": 1755230239.608836,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755191343.619778,
-    "completed_at": 1755191344.05808,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "log-and-order",
     "started_at": 1767779038.566058,
     "completed_at": 1767779040.36736,
     "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1755194078.359538,
-    "completed_at": 1755194082.02028,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
     "status": "Completed"
   },
   {
@@ -280,6 +253,97 @@
     "completed_at": 1767848290.862358,
     "comments": [
       "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1767851114.791904,
+    "completed_at": 1767851117.793267,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1767851206.1077,
+    "completed_at": 1767851207.492723,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1767851251.986514,
+    "completed_at": 1767851253.316034,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1767851299.863503,
+    "completed_at": 1767851303.02844,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1767852152.303714,
+    "completed_at": 1767852157.03103,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1767852665.491116,
+    "completed_at": 1767852668.658465,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1767852857.094898,
+    "completed_at": 1767852860.14146,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1767852952.370425,
+    "completed_at": 1767852956.719396,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1767853045.561997,
+    "completed_at": 1767853048.231043,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1767853170.838923,
+    "completed_at": 1767853173.791042,
+    "comments": [
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }

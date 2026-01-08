@@ -194,5 +194,41 @@
       "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1767849727.267884,
+    "completed_at": 1767849728.495924,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1767850737.106704,
+    "completed_at": 1767850738.483276,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1767852658.687396,
+    "completed_at": 1767852660.046689,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1767853297.828896,
+    "completed_at": 1767853299.113422,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
