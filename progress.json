@@ -1,0 +1,83 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755420895.381665,
+    "completed_at": 1755420895.681168,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755427312.43812,
+    "completed_at": 1755427423.984448,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755444742.665322,
+    "completed_at": 1755444742.988888,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755444848.430534,
+    "completed_at": 1755444850.606267,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755444939.128164,
+    "completed_at": 1755444939.195604,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755452001.91044,
+    "completed_at": 1755452003.090701,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755452100.414954,
+    "completed_at": 1755452101.325519,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755452151.072896,
+    "completed_at": 1755452154.606863,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755459138.689305,
+    "completed_at": 1755459141.824548,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]
