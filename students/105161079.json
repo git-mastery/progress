@@ -450,5 +450,14 @@
       "'downloaded_at'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1768099239.49851,
+    "completed_at": 1768099242.058552,
+    "comments": [
+      "You are missing the bug-fix branch"
+    ],
+    "status": "Incomplete"
   }
 ]
