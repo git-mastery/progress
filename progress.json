@@ -572,5 +572,14 @@
       "All commits are empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768097845.711354,
+    "completed_at": 1768097848.622537,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
