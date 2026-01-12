@@ -1,8 +1,6 @@
 name: Update tracker
 
 on:
-  schedule:
-    - cron: "0 * * * *" # Every 30 minutes
   workflow_dispatch:
 
 jobs:
