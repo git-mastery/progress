@@ -1,0 +1,18 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768193899.008362,
+    "completed_at": 1768193900.79454,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768194023.954074,
+    "completed_at": 1768194026.664211,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  }
+]
