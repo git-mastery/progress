@@ -1,0 +1,190 @@
+[
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768296505.301419,
+    "completed_at": 1768296510.686161,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768296138.190704,
+    "completed_at": 1768296141.624013,
+    "comments": [
+      "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768284850.510518,
+    "completed_at": 1768284854.246084,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768291001.678326,
+    "completed_at": 1768291005.047913,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768113237.784636,
+    "completed_at": 1768113241.306567,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768113273.722506,
+    "completed_at": 1768113276.111108,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1768140596.061812,
+    "completed_at": 1768140598.079642,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768114749.46219,
+    "completed_at": 1768114753.123417,
+    "comments": [
+      "Answer for What is the commit message of the commit 7653652178e0ddac9cf9b57a02fed41968f682df? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768114767.952168,
+    "completed_at": 1768114771.441015,
+    "comments": [
+      "Answer for What is the commit message of the commit 7653652178e0ddac9cf9b57a02fed41968f682df? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768114797.108019,
+    "completed_at": 1768114800.433091,
+    "comments": [
+      "Answer for What is the commit message of the commit 7653652178e0ddac9cf9b57a02fed41968f682df? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768114860.532182,
+    "completed_at": 1768114862.219979,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1768142311.082168,
+    "completed_at": 1768142314.095205,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768121293.957753,
+    "completed_at": 1768121370.040533,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768108836.585083,
+    "completed_at": 1768108840.159414,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768108850.931857,
+    "completed_at": 1768108854.840217,
+    "comments": [
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768109735.912716,
+    "completed_at": 1768109737.526785,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768106368.333255,
+    "completed_at": 1768106370.288739,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768108426.33567,
+    "completed_at": 1768108428.359894,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768108464.843115,
+    "completed_at": 1768108466.858496,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768108515.210072,
+    "completed_at": 1768108516.821567,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768106092.277072,
+    "completed_at": 1768106093.916981,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
