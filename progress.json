@@ -1,0 +1,242 @@
+[
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313226.592646,
+    "completed_at": 1768313233.512389,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313450.704808,
+    "completed_at": 1768313457.477681,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313683.788171,
+    "completed_at": 1768313687.51982,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313788.0226,
+    "completed_at": 1768313793.19143,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313883.131741,
+    "completed_at": 1768313890.095863,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313953.207689,
+    "completed_at": 1768313958.382461,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768313982.619468,
+    "completed_at": 1768313987.859884,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768314012.837043,
+    "completed_at": 1768314019.620479,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768315007.495255,
+    "completed_at": 1768315017.989267,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318822.605635,
+    "completed_at": 1768318829.584425,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318847.18777,
+    "completed_at": 1768318854.496586,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318870.771301,
+    "completed_at": 1768318877.845109,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318896.239042,
+    "completed_at": 1768318906.918932,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318952.576653,
+    "completed_at": 1768318959.46725,
+    "comments": [
+      "You are not ignoring ignore_me.txt",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768318993.939083,
+    "completed_at": 1768319000.677416,
+    "comments": [
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768319033.231941,
+    "completed_at": 1768319038.11985,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768319375.699307,
+    "completed_at": 1768319383.00924,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You should be ignoring the rest of many/* except many/file22.txt!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768319412.980231,
+    "completed_at": 1768319420.007221,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768322878.89857,
+    "completed_at": 1768322888.332982,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768322895.568969,
+    "completed_at": 1768322902.646961,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768322914.816852,
+    "completed_at": 1768322921.985865,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768323106.776285,
+    "completed_at": 1768323113.931653,
+    "comments": [
+      "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768323134.190329,
+    "completed_at": 1768323139.348045,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]
