@@ -54,5 +54,14 @@
       "Did not add alice.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768452754.259886,
+    "completed_at": 1768452758.451579,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
