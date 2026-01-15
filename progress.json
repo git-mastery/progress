@@ -7,5 +7,14 @@
       "You have not made any commits yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768449785.663619,
+    "completed_at": 1768449790.412385,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
   }
 ]
