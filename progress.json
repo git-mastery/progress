@@ -9,6 +9,15 @@
     "status": "Incomplete"
   },
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768452754.259886,
+    "completed_at": 1768452758.451579,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "ignoring-somethings",
     "started_at": 1768449699.925703,
     "completed_at": 1768449704.490084,
@@ -23,6 +32,17 @@
     "completed_at": 1768450080.35423,
     "comments": [
       "You have not made any commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768452696.70777,
+    "completed_at": 1768452700.227992,
+    "comments": [
+      "Did not add joe.txt",
+      "Did not add bob.txt",
+      "Did not add alice.txt"
     ],
     "status": "Incomplete"
   },
@@ -45,22 +65,13 @@
     "status": "Error"
   },
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1768452696.70777,
-    "completed_at": 1768452700.227992,
+    "exercise_name": "log-and-order",
+    "started_at": 1768453320.846744,
+    "completed_at": 1768453324.252365,
     "comments": [
-      "Did not add joe.txt",
-      "Did not add bob.txt",
-      "Did not add alice.txt"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768452754.259886,
-    "completed_at": 1768452758.451579,
-    "comments": [
-      "All commits are empty."
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 8a31f39b7408324adab058096af15a22b4550ab4? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
     ],
     "status": "Incomplete"
   }
