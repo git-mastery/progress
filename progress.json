@@ -43,5 +43,16 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768452696.70777,
+    "completed_at": 1768452700.227992,
+    "comments": [
+      "Did not add joe.txt",
+      "Did not add bob.txt",
+      "Did not add alice.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
