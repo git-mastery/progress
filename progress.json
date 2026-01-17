@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "push-over",
+    "started_at": 1768636613.674156,
+    "completed_at": 1768636616.922464,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1768636678.431537,
+    "completed_at": 1768636681.692593,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1768636815.033822,
+    "completed_at": 1768636825.636728,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]
