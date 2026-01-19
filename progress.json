@@ -18,24 +18,6 @@
     "status": "Incomplete"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768449699.925703,
-    "completed_at": 1768449704.490084,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768450073.59431,
-    "completed_at": 1768450080.35423,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "log-and-order",
     "started_at": 1768453320.846744,
     "completed_at": 1768453324.252365,
@@ -85,55 +67,11 @@
     "status": "Error"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768623032.451762,
-    "completed_at": 1768623040.404481,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "clone-repo",
     "started_at": 1768796191.407361,
     "completed_at": 1768796195.305504,
     "comments": [
       "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768796509.025911,
-    "completed_at": 1768796517.100522,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768796572.867509,
-    "completed_at": 1768796580.747904,
-    "comments": [
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768796604.362722,
-    "completed_at": 1768796610.319904,
-    "comments": [
-      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
