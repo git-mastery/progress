@@ -119,5 +119,14 @@
       "Remote branch S-to-Z is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1768895667.42909,
+    "completed_at": 1768895672.609753,
+    "comments": [
+      "Remote branch STU still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
