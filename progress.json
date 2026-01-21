@@ -1,0 +1,311 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768453919.243041,
+    "completed_at": 1768453935.52837,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768453973.146147,
+    "completed_at": 1768453978.852861,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768454511.190684,
+    "completed_at": 1768454516.850566,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768453511.432312,
+    "completed_at": 1768453514.756122,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768452737.55719,
+    "completed_at": 1768452742.442077,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768467724.268907,
+    "completed_at": 1768467811.074405,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1768468606.900767,
+    "completed_at": 1768468609.951117,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1768469444.728283,
+    "completed_at": 1768469448.204511,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768476192.222499,
+    "completed_at": 1768476202.372393,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1768476518.14316,
+    "completed_at": 1768476523.530777,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768476964.481248,
+    "completed_at": 1768476972.475125,
+    "comments": [
+      "C:\\Users\\Administrator\\Desktop\\School & Others\\Y2S2\\CS2103T\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1768477235.127497,
+    "completed_at": 1768477240.450783,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768478972.784415,
+    "completed_at": 1768478975.169187,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1768485104.279821,
+    "completed_at": 1768485107.685459,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1768485774.454906,
+    "completed_at": 1768485780.538021,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1768486185.363251,
+    "completed_at": 1768486189.052172,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1768486502.064697,
+    "completed_at": 1768486505.483047,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1768487181.183928,
+    "completed_at": 1768487185.97832,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768487802.475245,
+    "completed_at": 1768487807.133259,
+    "comments": [
+      "Answer for Which are the new values in staged files? is empty.",
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768488098.134666,
+    "completed_at": 1768488102.551445,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right.",
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768488392.445265,
+    "completed_at": 1768488401.337716,
+    "comments": [
+      "Answer for Which are the new values in staged files? is not right.",
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768488433.595271,
+    "completed_at": 1768488435.826161,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1768489002.049932,
+    "completed_at": 1768489004.368815,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1768532131.281016,
+    "completed_at": 1768532134.51837,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1768532557.136627,
+    "completed_at": 1768532560.6153,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1768971577.780384,
+    "completed_at": 1768971581.414719,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1768971913.971319,
+    "completed_at": 1768971917.319214,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1768972893.135552,
+    "completed_at": 1768972895.489504,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1768975083.314695,
+    "completed_at": 1768975085.580068,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1768976986.756231,
+    "completed_at": 1768976994.76342,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1768977333.391112,
+    "completed_at": 1768977336.813782,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1768977736.970518,
+    "completed_at": 1768977740.048415,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1768989810.407416,
+    "completed_at": 1768989812.672933,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1768990692.046435,
+    "completed_at": 1768990694.890174,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  }
+]
