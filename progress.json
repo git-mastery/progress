@@ -142,14 +142,5 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1769021124.098815,
-    "completed_at": 1769021127.374089,
-    "comments": [
-      "Could not find commit with SHA 'f1a031c32a0e2ba44c66471330c347bb1e66fb3f'"
-    ],
-    "status": "Error"
   }
 ]
