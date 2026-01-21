@@ -79,5 +79,14 @@
       "The init operation is not undone."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769019160.165769,
+    "completed_at": 1769019163.553847,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
   }
 ]
