@@ -1,0 +1,8 @@
+
+# Ignore Git-Mastery metadata
+.gitmastery.json
+.gitmastery.log
+progress/
+
+# Ignore all other exercise folders
+*/
