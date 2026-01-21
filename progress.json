@@ -155,5 +155,16 @@
       "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769023181.038812,
+    "completed_at": 1769023192.511024,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
