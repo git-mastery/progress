@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769075219.796866,
+    "completed_at": 1769075248.832849,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769075269.808475,
+    "completed_at": 1769075279.217109,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769075301.479246,
+    "completed_at": 1769075323.985063,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769077877.690784,
+    "completed_at": 1769077881.230732,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769078015.939893,
+    "completed_at": 1769078018.563422,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  }
+]
