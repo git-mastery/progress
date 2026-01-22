@@ -1,0 +1,72 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769061095.33514,
+    "completed_at": 1769061096.715458,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769062067.995263,
+    "completed_at": 1769062069.422951,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769060479.435986,
+    "completed_at": 1769060482.607196,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769060579.367793,
+    "completed_at": 1769060580.844034,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769060629.593934,
+    "completed_at": 1769060631.401717,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769060674.725238,
+    "completed_at": 1769060677.079343,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769060744.31099,
+    "completed_at": 1769060747.482508,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769060785.266306,
+    "completed_at": 1769060786.600727,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
