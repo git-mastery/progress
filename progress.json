@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769081105.546605,
+    "completed_at": 1769081107.523523,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769081216.166341,
+    "completed_at": 1769081218.223296,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769081309.113192,
+    "completed_at": 1769081311.004908,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769081802.032085,
+    "completed_at": 1769081803.851147,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
