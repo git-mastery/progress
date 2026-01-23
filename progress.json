@@ -106,5 +106,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769134066.582182,
+    "completed_at": 1769134069.867582,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
