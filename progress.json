@@ -1,0 +1,174 @@
+[
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1768706678.959908,
+    "completed_at": 1768706681.151601,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768445286.466154,
+    "completed_at": 1768445288.065411,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768402421.013038,
+    "completed_at": 1768402430.817697,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768374827.665099,
+    "completed_at": 1768374830.288286,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1768710961.778285,
+    "completed_at": 1768710964.259627,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1768723169.123887,
+    "completed_at": 1768723172.490958,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1768723199.249343,
+    "completed_at": 1768723203.485192,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1768723521.923966,
+    "completed_at": 1768723525.907846,
+    "comments": [
+      "Branch 'feature-search' still exists.",
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1768723560.960456,
+    "completed_at": 1768723563.273825,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768465965.883994,
+    "completed_at": 1768465969.004705,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768466073.530311,
+    "completed_at": 1768466075.085501,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1768469941.033037,
+    "completed_at": 1768469942.759451,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1768706381.082257,
+    "completed_at": 1768706385.644543,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1768706398.292215,
+    "completed_at": 1768706400.719365,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768370902.102828,
+    "completed_at": 1768370906.422251,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768371055.606338,
+    "completed_at": 1768371057.838427,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768371578.236023,
+    "completed_at": 1768371581.225687,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1768461782.132345,
+    "completed_at": 1768461784.266841,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1768447437.184337,
+    "completed_at": 1768447439.419453,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  }
+]
