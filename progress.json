@@ -205,5 +205,12 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769154497.56196,
+    "completed_at": 1769154499.512804,
+    "comments": [],
+    "status": "Completed"
   }
 ]
