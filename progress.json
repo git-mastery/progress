@@ -16,14 +16,5 @@
       "That is not the right Github url!"
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "under-control",
-    "started_at": 1769166804.949345,
-    "completed_at": 1769166806.465139,
-    "comments": [
-      "Exercise is not a Git repository"
-    ],
-    "status": "Error"
   }
 ]
