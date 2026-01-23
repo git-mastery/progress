@@ -1,0 +1,72 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769012617.669048,
+    "completed_at": 1769012619.006148,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769014129.644883,
+    "completed_at": 1769014131.068341,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769011311.209158,
+    "completed_at": 1769011312.549505,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769011631.335185,
+    "completed_at": 1769011632.648255,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769011744.648632,
+    "completed_at": 1769011746.095199,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769008397.707973,
+    "completed_at": 1769008399.328075,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769008614.680091,
+    "completed_at": 1769008615.97131,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769008796.748513,
+    "completed_at": 1769008798.037972,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
