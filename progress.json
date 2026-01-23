@@ -1,0 +1,36 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768565034.894744,
+    "completed_at": 1768565036.33112,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768564376.816145,
+    "completed_at": 1768564381.680091,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769050008.537646,
+    "completed_at": 1769050010.156069,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769150751.573118,
+    "completed_at": 1769150753.067655,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  }
+]
