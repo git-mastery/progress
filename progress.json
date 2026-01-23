@@ -95,5 +95,14 @@
       "You are not ignoring ignore_me.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769175295.739205,
+    "completed_at": 1769175314.816786,
+    "comments": [
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
