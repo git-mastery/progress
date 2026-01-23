@@ -1,0 +1,108 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768820126.032632,
+    "completed_at": 1768820129.521648,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769149527.829309,
+    "completed_at": 1769149531.610616,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768817295.346851,
+    "completed_at": 1768817298.839568,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768818385.153789,
+    "completed_at": 1768818388.354964,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768815751.704613,
+    "completed_at": 1768815758.237676,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768815929.150299,
+    "completed_at": 1768815932.963438,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769150972.09466,
+    "completed_at": 1769150982.669245,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769151016.140566,
+    "completed_at": 1769151023.211916,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1769151546.438194,
+    "completed_at": 1769151549.612553,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769160593.31034,
+    "completed_at": 1769160598.47704,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769175199.819669,
+    "completed_at": 1769175218.151113,
+    "comments": [
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769175295.739205,
+    "completed_at": 1769175314.816786,
+    "comments": [
+      "You are not ignoring ignore_me.txt"
+    ],
+    "status": "Incomplete"
+  }
+]
