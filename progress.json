@@ -1,0 +1,184 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768996068.817896,
+    "completed_at": 1768996070.144915,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768996696.019697,
+    "completed_at": 1768996697.278243,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768993458.302492,
+    "completed_at": 1768993459.802835,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768993571.13641,
+    "completed_at": 1768993572.542331,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1769271625.880976,
+    "completed_at": 1769271627.214011,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1769272038.320577,
+    "completed_at": 1769272039.653511,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1769273673.24511,
+    "completed_at": 1769273674.584471,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769274210.949191,
+    "completed_at": 1769274212.396376,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769274442.175156,
+    "completed_at": 1769274445.160636,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769274685.486852,
+    "completed_at": 1769274688.350364,
+    "comments": [
+      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769274747.897932,
+    "completed_at": 1769274750.899595,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769274876.389954,
+    "completed_at": 1769274877.781701,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1769275034.67632,
+    "completed_at": 1769275037.584639,
+    "comments": [
+      "You have not committed the staged files! Remember, you need to manually commit after a squash merge!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1769275815.733792,
+    "completed_at": 1769275817.096933,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1769278233.439464,
+    "completed_at": 1769278234.761837,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1769279640.425846,
+    "completed_at": 1769279642.771057,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1769280370.734322,
+    "completed_at": 1769280373.780906,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1769280402.805389,
+    "completed_at": 1769280404.04989,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1769280873.725012,
+    "completed_at": 1769280876.780417,
+    "comments": [
+      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1769281044.015846,
+    "completed_at": 1769281046.980834,
+    "comments": [
+      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
+    ],
+    "status": "Incomplete"
+  }
+]
