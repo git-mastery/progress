@@ -259,5 +259,14 @@
       "The 'sleep-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769346861.348712,
+    "completed_at": 1769346863.550981,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
