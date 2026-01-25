@@ -96,5 +96,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks push_over/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Could not resolve host: github.com\nfatal: could not fetch f17bd53e035062b77d313318d1b3111edd9bb2dd from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769331022.391287,
+    "completed_at": 1769331061.687175,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks exercise_utils/__init__.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Recv failure: Connection was reset\nfatal: could not fetch 3a2ac6749d04324755e3d69ec9ecf3d8a5aa7664 from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
