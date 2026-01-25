@@ -87,5 +87,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769330960.174267,
+    "completed_at": 1769330981.075976,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks push_over/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Could not resolve host: github.com\nfatal: could not fetch f17bd53e035062b77d313318d1b3111edd9bb2dd from promisor remote'"
+    ],
+    "status": "Error"
   }
 ]
