@@ -1,0 +1,60 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1766735728.013995,
+    "completed_at": 1766735730.806674,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1766735838.354936,
+    "completed_at": 1766735841.293211,
+    "comments": [
+      "Branch main is missing."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1766735868.472205,
+    "completed_at": 1766735871.316986,
+    "comments": [
+      "The main branch is missing the dangers-to-bonsais.txt file"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767189207.72228,
+    "completed_at": 1767189215.526867,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?",
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767189858.286283,
+    "completed_at": 1767189867.559292,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1767190061.743272,
+    "completed_at": 1767190074.956394,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?"
+    ],
+    "status": "Incomplete"
+  }
+]
