@@ -1,0 +1,66 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768153644.441994,
+    "completed_at": 1768153646.417129,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768155268.669311,
+    "completed_at": 1768155272.250197,
+    "comments": [
+      "Answer for What is the commit message of the commit 67f7513ae3f18562ede0217cadfd6e2dc3804904? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768152988.006654,
+    "completed_at": 1768152989.796547,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768153300.681573,
+    "completed_at": 1768153302.399693,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768151700.643957,
+    "completed_at": 1768151702.416341,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768151730.046858,
+    "completed_at": 1768151731.771022,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768151990.439044,
+    "completed_at": 1768151992.144613,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
