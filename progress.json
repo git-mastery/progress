@@ -76,19 +76,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1768796652.40357,
-    "completed_at": 1768796660.455112,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
-      "You are not ignoring ignore_me.txt",
-      "You are not ignoring runaway.txt. Find where the file is and fix that.",
-      "You have not committed the relevant changes yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "glossary-branch-rename",
     "started_at": 1768893052.118215,
     "completed_at": 1768893057.002611,
@@ -135,33 +122,6 @@
     "completed_at": 1768895706.000781,
     "comments": [
       "Nice work renaming the branch locally and on the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769410455.718083,
-    "completed_at": 1769410459.159387,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769410530.107207,
-    "completed_at": 1769410535.125381,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769410594.308789,
-    "completed_at": 1769410599.328361,
-    "comments": [
-      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
