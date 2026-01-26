@@ -124,14 +124,5 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1769411875.019129,
-    "completed_at": 1769411876.674724,
-    "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
-    ],
-    "status": "Completed"
   }
 ]
