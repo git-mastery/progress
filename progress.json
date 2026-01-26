@@ -124,32 +124,5 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769410699.353501,
-    "completed_at": 1769410702.767937,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769411296.098238,
-    "completed_at": 1769411303.472092,
-    "comments": [
-      "You have not made any commits yet!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769411342.907061,
-    "completed_at": 1769411348.328477,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
   }
 ]
