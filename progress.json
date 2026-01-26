@@ -1,0 +1,182 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768813658.230952,
+    "completed_at": 1768813659.890875,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768813860.700855,
+    "completed_at": 1768813861.99679,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768813962.549554,
+    "completed_at": 1768813965.522468,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768813978.365446,
+    "completed_at": 1768813981.397582,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768814003.111441,
+    "completed_at": 1768814005.974315,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768814037.48099,
+    "completed_at": 1768814038.726356,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769048850.017296,
+    "completed_at": 1769048909.494808,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769048924.847277,
+    "completed_at": 1769048931.337819,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769048947.33122,
+    "completed_at": 1769048952.934345,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769049786.555503,
+    "completed_at": 1769049790.623909,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769435593.578966,
+    "completed_at": 1769435596.482991,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769435672.853692,
+    "completed_at": 1769435675.65421,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769435755.40039,
+    "completed_at": 1769435756.758536,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769436612.33443,
+    "completed_at": 1769436613.623366,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1769437585.718146,
+    "completed_at": 1769437587.006877,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1769437923.332168,
+    "completed_at": 1769437924.653844,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1769438376.252161,
+    "completed_at": 1769438377.555845,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1769438652.612127,
+    "completed_at": 1769438653.938966,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1769440079.339641,
+    "completed_at": 1769440080.811147,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1769440959.737469,
+    "completed_at": 1769440961.172169,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  }
+]
