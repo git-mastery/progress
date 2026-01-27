@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769064168.727526,
+    "completed_at": 1769064786.573501,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769166233.761895,
+    "completed_at": 1769166345.072351,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769166940.433862,
+    "completed_at": 1769166941.942292,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769167357.784911,
+    "completed_at": 1769167359.205341,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769524203.303546,
+    "completed_at": 1769524204.783334,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  }
+]
