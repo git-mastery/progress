@@ -266,32 +266,5 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1769499365.229458,
-    "completed_at": 1769499367.957603,
-    "comments": [
-      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1769499395.146811,
-    "completed_at": 1769499397.824866,
-    "comments": [
-      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1769499421.013356,
-    "completed_at": 1769499423.703274,
-    "comments": [
-      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
-    ],
-    "status": "Error"
   }
 ]
