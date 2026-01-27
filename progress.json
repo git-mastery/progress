@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768554397.125297,
+    "completed_at": 1768554398.46443,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1769504210.60402,
+    "completed_at": 1769504215.517828,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  }
+]
