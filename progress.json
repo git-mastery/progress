@@ -79,5 +79,14 @@
       "You do not have 2 commits on the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769500445.674521,
+    "completed_at": 1769500449.047019,
+    "comments": [
+      "The 'visitor-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
