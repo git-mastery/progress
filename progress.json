@@ -284,5 +284,14 @@
       "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769499421.013356,
+    "completed_at": 1769499423.703274,
+    "comments": [
+      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout stream-1\n  stderr: 'error: Your local changes to the following files would be overwritten by checkout:\n\tdata.txt\nPlease commit your changes or stash them before you switch branches.\nAborting'"
+    ],
+    "status": "Error"
   }
 ]
