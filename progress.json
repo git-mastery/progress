@@ -97,5 +97,14 @@
       "The 'visitor-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769500897.906876,
+    "completed_at": 1769500901.424141,
+    "comments": [
+      "No commits were made in the 'visitor-line' branch."
+    ],
+    "status": "Incomplete"
   }
 ]
