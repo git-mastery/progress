@@ -170,5 +170,15 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1769509900.502234,
+    "completed_at": 1769509904.325364,
+    "comments": [
+      "You need to merge 'feature-delete' second!",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
