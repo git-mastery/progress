@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768968966.330201,
+    "completed_at": 1768968992.565242,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769576117.730392,
+    "completed_at": 1769576119.464027,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769576537.941682,
+    "completed_at": 1769576539.393725,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  }
+]
