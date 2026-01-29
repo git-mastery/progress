@@ -1,0 +1,65 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769617339.428162,
+    "completed_at": 1769617346.010683,
+    "comments": [
+      "Answer for What is the commit message of the commit e66fe6d320cf059d9c17ec32e593307ec8e1c145? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769672069.302188,
+    "completed_at": 1769672168.442659,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769672249.131939,
+    "completed_at": 1769672265.513449,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1769672735.844658,
+    "completed_at": 1769672739.293217,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769680599.411747,
+    "completed_at": 1769680605.141179,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1769681214.006987,
+    "completed_at": 1769681220.626603,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769682546.950447,
+    "completed_at": 1769682550.32201,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  }
+]
