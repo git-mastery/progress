@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769675479.413586,
+    "completed_at": 1769675481.208671,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769673726.941964,
+    "completed_at": 1769673728.317836,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769145200.902088,
+    "completed_at": 1769145202.106029,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769145355.27429,
+    "completed_at": 1769145356.824548,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769676843.879712,
+    "completed_at": 1769676941.912753,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
