@@ -241,14 +241,5 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1769740810.19192,
-    "completed_at": 1769740814.23978,
-    "comments": [
-      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
-    ],
-    "status": "Incomplete"
   }
 ]
