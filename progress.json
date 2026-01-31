@@ -368,5 +368,15 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1769878124.601827,
+    "completed_at": 1769878127.866102,
+    "comments": [
+      "You should not be in a detached HEAD state! Use git checkout main to get back to main",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
