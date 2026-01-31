@@ -386,5 +386,14 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769879514.738231,
+    "completed_at": 1769879518.167849,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
