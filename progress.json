@@ -377,5 +377,14 @@
       "The 'visitor-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769875607.884802,
+    "completed_at": 1769875611.302463,
+    "comments": [
+      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
   }
 ]
