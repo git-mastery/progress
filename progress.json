@@ -287,5 +287,14 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1769834923.822941,
+    "completed_at": 1769834926.925949,
+    "comments": [
+      "The 'january-update' tag is pointing to the wrong commit. It should point to the January commit."
+    ],
+    "status": "Incomplete"
   }
 ]
