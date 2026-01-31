@@ -359,32 +359,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769875446.491547,
-    "completed_at": 1769875449.881326,
-    "comments": [
-      "The 'visitor-line' branch is missing."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769875527.439789,
-    "completed_at": 1769875530.88519,
-    "comments": [
-      "The 'visitor-line' branch is missing."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1769875607.884802,
-    "completed_at": 1769875611.302463,
-    "comments": [
-      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
