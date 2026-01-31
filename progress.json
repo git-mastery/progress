@@ -180,15 +180,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-previous",
-    "started_at": 1769666012.0226,
-    "completed_at": 1769666013.611729,
-    "comments": [
-      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "branch-bender",
     "started_at": 1769673260.306381,
     "completed_at": 1769673261.78694,
