@@ -1,0 +1,357 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769498769.290226,
+    "completed_at": 1769499167.593823,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769499207.936284,
+    "completed_at": 1769499232.478597,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769499343.99983,
+    "completed_at": 1769499386.593503,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1769499824.776577,
+    "completed_at": 1769499826.068464,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769516699.689548,
+    "completed_at": 1769516702.714496,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769516750.022632,
+    "completed_at": 1769516753.436358,
+    "comments": [
+      "You might have forgotten to push your commit to the remote repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769533626.897118,
+    "completed_at": 1769533630.934878,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You are not ignoring ignore_me.txt",
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769533768.041272,
+    "completed_at": 1769533772.239736,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You are not ignoring ignore_me.txt",
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769533842.631566,
+    "completed_at": 1769533848.571137,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534026.401772,
+    "completed_at": 1769534030.4067,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534131.937026,
+    "completed_at": 1769534135.976182,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534221.702573,
+    "completed_at": 1769534225.598242,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534328.580284,
+    "completed_at": 1769534332.423227,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534453.204589,
+    "completed_at": 1769534457.299988,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769534531.464496,
+    "completed_at": 1769534535.477991,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769535117.696065,
+    "completed_at": 1769535121.630667,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769535423.161825,
+    "completed_at": 1769535425.823337,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1769568179.201471,
+    "completed_at": 1769568180.652015,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769750915.194751,
+    "completed_at": 1769750916.512571,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1769751085.524069,
+    "completed_at": 1769751086.905705,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769751359.92195,
+    "completed_at": 1769751362.593473,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769754738.820468,
+    "completed_at": 1769754741.779311,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769754794.134164,
+    "completed_at": 1769754799.245586,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769754815.164885,
+    "completed_at": 1769754816.484784,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1769777063.105058,
+    "completed_at": 1769777064.898325,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769777471.96465,
+    "completed_at": 1769777473.515396,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769778524.96314,
+    "completed_at": 1769778526.45197,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769861149.927881,
+    "completed_at": 1769861152.969461,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769861843.282352,
+    "completed_at": 1769861844.791584,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1770030872.745772,
+    "completed_at": 1770030875.793545,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1770030930.022238,
+    "completed_at": 1770030931.444887,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1770031170.724964,
+    "completed_at": 1770031172.114572,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1770032629.065193,
+    "completed_at": 1770032630.41294,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1770032766.866866,
+    "completed_at": 1770032768.235808,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1770036098.628643,
+    "completed_at": 1770036100.10734,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1770036220.367018,
+    "completed_at": 1770036221.755126,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770041763.906756,
+    "completed_at": 1770041766.861889,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770041798.728275,
+    "completed_at": 1770041800.098475,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  }
+]
