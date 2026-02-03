@@ -1,0 +1,362 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769054911.081663,
+    "completed_at": 1769054912.246985,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057567.825224,
+    "completed_at": 1769057570.348956,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057595.472612,
+    "completed_at": 1769057598.035579,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057617.481605,
+    "completed_at": 1769057620.040145,
+    "comments": [
+      "Could not find commit with SHA 'f34b3701b0c98b6bdea0e10b9724e045d74e64f6'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769057797.605116,
+    "completed_at": 1769057798.777546,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769053937.25375,
+    "completed_at": 1769053938.415314,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769054543.655435,
+    "completed_at": 1769054544.843253,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769052788.486284,
+    "completed_at": 1769052789.634495,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1769052942.768677,
+    "completed_at": 1769052943.916268,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769119952.863903,
+    "completed_at": 1769119969.086654,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769120015.191541,
+    "completed_at": 1769120021.955426,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1769120323.478407,
+    "completed_at": 1769120324.650958,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769120943.902647,
+    "completed_at": 1769120946.450573,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1769121135.795804,
+    "completed_at": 1769121137.461392,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769122805.147294,
+    "completed_at": 1769122807.830244,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769122977.293426,
+    "completed_at": 1769122979.967018,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769122988.051406,
+    "completed_at": 1769122990.764791,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769131743.177667,
+    "completed_at": 1769131746.409777,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1769132916.242801,
+    "completed_at": 1769132920.379036,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1769132997.036841,
+    "completed_at": 1769133000.260905,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769133944.742124,
+    "completed_at": 1769133945.893049,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769246550.277748,
+    "completed_at": 1769246554.913639,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769246640.3383,
+    "completed_at": 1769246644.486439,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769247744.187504,
+    "completed_at": 1769247748.838737,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769247786.481995,
+    "completed_at": 1769247791.75501,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769247856.194218,
+    "completed_at": 1769247860.715372,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769247877.007547,
+    "completed_at": 1769247881.533943,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769247896.520173,
+    "completed_at": 1769247900.990214,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769254985.870897,
+    "completed_at": 1769254989.490654,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769637023.661414,
+    "completed_at": 1769637024.850724,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1769638198.295668,
+    "completed_at": 1769638200.915829,
+    "comments": [
+      "Answer for In February, who was replaced in the Wednesday duty roster? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1769638248.22441,
+    "completed_at": 1769638250.189284,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769638983.999678,
+    "completed_at": 1769638986.604079,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769639061.906793,
+    "completed_at": 1769639063.04,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1769639187.74726,
+    "completed_at": 1769639188.990188,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769639399.093754,
+    "completed_at": 1769639401.087438,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769640238.394081,
+    "completed_at": 1769640239.644836,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1769641432.602791,
+    "completed_at": 1769641433.971257,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1770109933.796165,
+    "completed_at": 1770109939.593049,
+    "comments": [
+      "It seems like the last two commits for Jan 14 and Jan 15 are still present in the commit history."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1770110586.765754,
+    "completed_at": 1770110589.573406,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  }
+]
