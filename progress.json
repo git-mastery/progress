@@ -7,5 +7,17 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1770265832.171205,
+    "completed_at": 1770265835.576649,
+    "comments": [
+      "Answer for In February, who was replaced in the Wednesday duty roster? is empty.",
+      "Answer for In February, who joined the Tuesday duty roster? is empty.",
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers.",
+      "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
   }
 ]
