@@ -1,0 +1,94 @@
+[
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770266341.632497,
+    "completed_at": 1770266341.756684,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770266416.551904,
+    "completed_at": 1770266424.163808,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770290197.375259,
+    "completed_at": 1770290201.263265,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770532523.576091,
+    "completed_at": 1770532524.737946,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535018.547053,
+    "completed_at": 1770535021.366759,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository.",
+      "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535093.735992,
+    "completed_at": 1770535096.406463,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535188.328604,
+    "completed_at": 1770535191.010493,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository.",
+      "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535213.209038,
+    "completed_at": 1770535216.110821,
+    "comments": [
+      "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535241.750822,
+    "completed_at": 1770535242.943802,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770536655.812469,
+    "completed_at": 1770536663.741171,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  }
+]
