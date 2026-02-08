@@ -46,26 +46,5 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-rename",
-    "started_at": 1770556182.713881,
-    "completed_at": 1770556189.056748,
-    "comments": [
-      "Local branch STU still exists.",
-      "Local branch S-to-Z is missing.",
-      "Remote branch STU still exists.",
-      "Remote branch S-to-Z is missing."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-rename",
-    "started_at": 1770556242.501091,
-    "completed_at": 1770556247.15848,
-    "comments": [
-      "Nice work renaming the branch locally and on the remote!"
-    ],
-    "status": "Completed"
   }
 ]
