@@ -19,5 +19,14 @@
       "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. does not contain all of the right answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770552750.703888,
+    "completed_at": 1770552754.116434,
+    "comments": [
+      "Branch 'PQR' has not been pushed to the remote."
+    ],
+    "status": "Incomplete"
   }
 ]
