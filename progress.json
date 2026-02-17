@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755196522.234373,
+    "completed_at": 1755196522.643693,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755196541.409674,
+    "completed_at": 1755196541.448438,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755196607.434651,
+    "completed_at": 1755196607.470456,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  }
+]
