@@ -1,5 +1,122 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646045.165112,
+    "completed_at": 1761646047.745148,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646132.432958,
+    "completed_at": 1761646135.806542,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646166.984831,
+    "completed_at": 1761646168.983248,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1761646226.664374,
+    "completed_at": 1761646229.165879,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1764572340.675866,
+    "completed_at": 1764572344.857276,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1761646578.012844,
+    "completed_at": 1761646578.544119,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1761645351.525475,
+    "completed_at": 1761645354.621996,
+    "comments": [
+      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1761645778.840562,
+    "completed_at": 1761645782.965906,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770389539.180151,
+    "completed_at": 1770389541.865461,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770389552.481736,
+    "completed_at": 1770389555.1226,
+    "comments": [
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770389567.177469,
+    "completed_at": 1770389569.892062,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770389580.655138,
+    "completed_at": 1770389583.320952,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1760338990.730829,
     "completed_at": 1760338991.309329,
@@ -286,6 +403,15 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "side-track",
+    "started_at": 1768099239.49851,
+    "completed_at": 1768099242.058552,
+    "comments": [
+      "You are missing the bug-fix branch"
+    ],
+    "status": "Incomplete"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1760100267.140785,
     "completed_at": 1760100267.383739,
@@ -344,78 +470,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "under-control",
-    "started_at": 1760065583.592447,
-    "completed_at": 1760065584.904812,
-    "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1761645351.525475,
-    "completed_at": 1761645354.621996,
-    "comments": [
-      "No fork of git-mastery/gm-shapes found. Remember to fork it from https://github.com/git-mastery/gm-shapes and keep the name as gm-shapes"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1761645778.840562,
-    "completed_at": 1761645782.965906,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1761646045.165112,
-    "completed_at": 1761646047.745148,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1761646132.432958,
-    "completed_at": 1761646135.806542,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1761646166.984831,
-    "completed_at": 1761646168.983248,
-    "comments": [
-      "The remote 'upstream' is missing!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1761646226.664374,
-    "completed_at": 1761646229.165879,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1761646578.012844,
-    "completed_at": 1761646578.544119,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
-    ],
-    "status": "Completed"
-  },
-  {
     "exercise_name": "tags-push",
     "started_at": 1764572278.590038,
     "completed_at": 1764572278.590283,
@@ -423,15 +477,6 @@
       "'downloaded_at'"
     ],
     "status": "Error"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1764572340.675866,
-    "completed_at": 1764572344.857276,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
   },
   {
     "exercise_name": "tags-push",
@@ -452,12 +497,12 @@
     "status": "Error"
   },
   {
-    "exercise_name": "side-track",
-    "started_at": 1768099239.49851,
-    "completed_at": 1768099242.058552,
+    "exercise_name": "under-control",
+    "started_at": 1760065583.592447,
+    "completed_at": 1760065584.904812,
     "comments": [
-      "You are missing the bug-fix branch"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
-    "status": "Incomplete"
+    "status": "Completed"
   }
 ]
