@@ -1,0 +1,158 @@
+[
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770224339.009928,
+    "completed_at": 1770224346.799599,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770224414.656621,
+    "completed_at": 1770224418.978926,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770224474.314094,
+    "completed_at": 1770224478.419199,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770224699.897524,
+    "completed_at": 1770224702.070832,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770271410.997812,
+    "completed_at": 1770271419.149241,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1770271776.353703,
+    "completed_at": 1770271779.483688,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1770271793.650836,
+    "completed_at": 1770271797.372106,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1770274109.404709,
+    "completed_at": 1770274112.58376,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1770274132.339879,
+    "completed_at": 1770274136.030623,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1770275305.837045,
+    "completed_at": 1770275309.574948,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770276442.04566,
+    "completed_at": 1770276449.006722,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770276488.509647,
+    "completed_at": 1770276492.140113,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1770276581.842508,
+    "completed_at": 1770276588.84524,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add alice.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1770276709.187921,
+    "completed_at": 1770276712.994091,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1770276914.361047,
+    "completed_at": 1770276918.077386,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1770877113.015387,
+    "completed_at": 1770877116.388762,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1772210607.04031,
+    "completed_at": 1772210610.764357,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  }
+]
