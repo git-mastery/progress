@@ -73,5 +73,17 @@
       "Great work! All required branches are present and correctly set up."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1773212945.915045,
+    "completed_at": 1773212953.648604,
+    "comments": [
+      "Local branch STU still exists.",
+      "Local branch S-to-Z is missing.",
+      "Remote branch STU still exists.",
+      "Remote branch S-to-Z is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
