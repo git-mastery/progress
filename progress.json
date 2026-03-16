@@ -17,5 +17,17 @@
       "Branch 'PQR' has not been pushed to the remote."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1773641556.021788,
+    "completed_at": 1773641558.77514,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
   }
 ]
