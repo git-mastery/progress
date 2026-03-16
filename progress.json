@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1773031483.442721,
+    "completed_at": 1773031486.883329,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository.",
+      "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1773210384.043626,
+    "completed_at": 1773210387.001269,
+    "comments": [
+      "Branch 'PQR' has not been pushed to the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1773641556.021788,
+    "completed_at": 1773641558.77514,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1773641564.460334,
+    "completed_at": 1773641567.360533,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  }
+]
