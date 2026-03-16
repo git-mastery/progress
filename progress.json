@@ -29,5 +29,17 @@
       "New commit in the remote DEF branch is not pulled to the local DEF branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1773641564.460334,
+    "completed_at": 1773641567.360533,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
   }
 ]
