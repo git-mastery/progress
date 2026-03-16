@@ -85,14 +85,5 @@
       "Remote branch S-to-Z is missing."
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1773632115.907765,
-    "completed_at": 1773632117.463985,
-    "comments": [
-      "Great work with undoing the merges! Try listing the directory to see what has changed."
-    ],
-    "status": "Completed"
   }
 ]
