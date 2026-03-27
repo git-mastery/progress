@@ -1,0 +1,228 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755498537.566738,
+    "completed_at": 1755498538.159777,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755497755.994862,
+    "completed_at": 1755497756.36656,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755497993.445195,
+    "completed_at": 1755497993.811787,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755498041.117688,
+    "completed_at": 1755498041.444448,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755497003.629058,
+    "completed_at": 1755497004.058292,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755504651.079838,
+    "completed_at": 1755504753.051032,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755507319.203953,
+    "completed_at": 1755507320.244491,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755508201.8644,
+    "completed_at": 1755508204.930724,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755508393.909726,
+    "completed_at": 1755508397.061358,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755508547.025038,
+    "completed_at": 1755508550.128469,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755508594.139076,
+    "completed_at": 1755508596.967983,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755508879.580242,
+    "completed_at": 1755508882.689176,
+    "comments": [
+      "You are still ignoring many/file22.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755509036.755879,
+    "completed_at": 1755509039.911177,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755509356.418658,
+    "completed_at": 1755509358.186355,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755509836.116996,
+    "completed_at": 1755509837.923193,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755509921.247566,
+    "completed_at": 1755509922.787467,
+    "comments": [
+      "The remote 'origin' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755510111.983516,
+    "completed_at": 1755510113.831512,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755510169.571287,
+    "completed_at": 1755510171.134439,
+    "comments": [
+      "The upstream remote does not point to the original repository!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755510239.743988,
+    "completed_at": 1755510241.430401,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756285164.916863,
+    "completed_at": 1756285165.857149,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1756285590.995031,
+    "completed_at": 1756285591.402241,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756286072.958271,
+    "completed_at": 1756286073.330012,
+    "comments": [
+      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756286186.414165,
+    "completed_at": 1756286186.886682,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756286418.836869,
+    "completed_at": 1756286419.19973,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756286626.555511,
+    "completed_at": 1756286626.888974,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  }
+]
