@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755499043.53387,
+    "completed_at": 1755499213.522416,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755504420.900345,
+    "completed_at": 1755504423.11353,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  }
+]
