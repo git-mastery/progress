@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755609721.541302,
+    "completed_at": 1755610121.090567,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755610155.594761,
+    "completed_at": 1755610238.537875,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  }
+]
