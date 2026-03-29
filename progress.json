@@ -1,0 +1,200 @@
+[
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1756113332.767,
+    "completed_at": 1756113333.382159,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1756118591.027164,
+    "completed_at": 1756118591.666255,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755688449.870108,
+    "completed_at": 1755688453.548301,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1756116976.833598,
+    "completed_at": 1756116977.513885,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755693808.320579,
+    "completed_at": 1755693808.988857,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755693849.212262,
+    "completed_at": 1755693849.504824,
+    "comments": [
+      "Remote 'bob-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-bob, fix that!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1755693895.17897,
+    "completed_at": 1755693895.480097,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755687040.544301,
+    "completed_at": 1755687044.309384,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1755687128.889009,
+    "completed_at": 1755687132.172847,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755680417.29171,
+    "completed_at": 1755680418.111979,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755683383.000776,
+    "completed_at": 1755683383.602644,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755685274.320964,
+    "completed_at": 1755685275.847751,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755672213.050699,
+    "completed_at": 1755672298.158288,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755672583.533953,
+    "completed_at": 1755672609.72338,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755672792.531275,
+    "completed_at": 1755672815.053501,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1755682182.696043,
+    "completed_at": 1755682213.98683,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756110261.299643,
+    "completed_at": 1756110262.153863,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755679203.674713,
+    "completed_at": 1755679203.984881,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755679455.506518,
+    "completed_at": 1755679456.097091,
+    "comments": [
+      "You need to unstage all three attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755679500.791104,
+    "completed_at": 1755679501.086738,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755676968.445545,
+    "completed_at": 1755676969.006831,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1756131240.15809,
+    "completed_at": 1756131241.449743,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  }
+]
