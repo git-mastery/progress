@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1754560877.413487,
+    "completed_at": 1754560877.897115,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1754560943.291562,
+    "completed_at": 1754560943.818115,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  }
+]
