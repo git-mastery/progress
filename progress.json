@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046180.360813,
+    "completed_at": 1777046182.390396,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046207.293869,
+    "completed_at": 1777046209.008204,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046248.746319,
+    "completed_at": 1777046250.49944,
+    "comments": [
+      "Remote 'bob-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-bob, fix that!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046348.889305,
+    "completed_at": 1777046350.636124,
+    "comments": [
+      "You have not fetched Bob's changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046392.079494,
+    "completed_at": 1777046392.801598,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  }
+]
