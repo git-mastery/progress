@@ -16,5 +16,14 @@
       "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046248.746319,
+    "completed_at": 1777046250.49944,
+    "comments": [
+      "Remote 'bob-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-bob, fix that!"
+    ],
+    "status": "Incomplete"
   }
 ]
