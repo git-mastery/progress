@@ -25,5 +25,14 @@
       "Remote 'bob-upstream' is not pointing to https://github.com/git-mastery/gm-shapes-bob, fix that!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046348.889305,
+    "completed_at": 1777046350.636124,
+    "comments": [
+      "You have not fetched Bob's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
