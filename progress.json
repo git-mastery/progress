@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1777046180.360813,
+    "completed_at": 1777046182.390396,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
+  }
+]
