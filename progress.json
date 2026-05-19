@@ -362,5 +362,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1779161491.308168,
+    "completed_at": 1779161493.812911,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Add the search feature\n\ncommit 6d04b05582a175bec2a97fb25a604ad68c3043a3\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:43:46 2025 +0800\n\n    Add more details on the search feature\n\ncommit cf60f821a837456dc7598b17184bab9c204fe44a\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:39:41 2025 +0800\n\n    Mention feature for searching books' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
