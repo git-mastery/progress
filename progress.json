@@ -280,5 +280,14 @@
       "Great work with undoing the merges! Try listing the directory to see what has changed."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1779157274.054662,
+    "completed_at": 1779157275.330576,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
