@@ -317,5 +317,14 @@
       "Ref 'supporting' did not resolve to an object"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1779158137.977173,
+    "completed_at": 1779158139.135198,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
