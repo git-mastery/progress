@@ -371,5 +371,14 @@
       "Expected commit message of 'Add the search feature', got 'Add the search feature\n\ncommit 6d04b05582a175bec2a97fb25a604ad68c3043a3\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:43:46 2025 +0800\n\n    Add more details on the search feature\n\ncommit cf60f821a837456dc7598b17184bab9c204fe44a\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:39:41 2025 +0800\n\n    Mention feature for searching books' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1779161675.41568,
+    "completed_at": 1779161678.04609,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got 'Add the delete feature\n\ncommit b82a60f0676891c02b72db3be26b42013446e306\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:37:32 2025 +0800\n\n    Add missing period\n\ncommit bb28e06601a161ad15b4052f39d0b6e6d9bfbaf5\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:36:43 2025 +0800\n\n    Mention feature for deleting books' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
