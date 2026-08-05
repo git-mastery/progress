@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "under-control",
+    "started_at": 1785942908.243169,
+    "completed_at": 1785942909.737004,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1785943252.230885,
+    "completed_at": 1785943253.583484,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
