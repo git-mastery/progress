@@ -50,5 +50,14 @@
     "completed_at": 1785915408.374338,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1785916791.310533,
+    "completed_at": 1785916896.911033,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
