@@ -104,5 +104,14 @@
       "Great work using .gitignore!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1785981991.425433,
+    "completed_at": 1785981996.960768,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
