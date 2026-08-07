@@ -417,5 +417,14 @@
       "Branch 'feature-search' still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1786109347.48388,
+    "completed_at": 1786109353.019358,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
