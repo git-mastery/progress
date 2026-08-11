@@ -208,5 +208,14 @@
       "Tag beta is still on the remote!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786426229.882301,
+    "completed_at": 1786426234.881642,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
   }
 ]
