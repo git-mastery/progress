@@ -98,55 +98,19 @@
   },
   {
     "exercise_name": "ignoring-somethings",
-    "started_at": 1786499723.40705,
-    "completed_at": 1786499735.719374,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786499814.464156,
-    "completed_at": 1786499826.487424,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786499879.551281,
-    "completed_at": 1786499893.744241,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786499976.003825,
-    "completed_at": 1786499988.972221,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786500244.912123,
-    "completed_at": 1786500257.162641,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
     "started_at": 1786500382.403299,
     "completed_at": 1786500392.442263,
     "comments": [
       "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786500394.403299,
+    "completed_at": 1786500402.442263,
+    "comments": [
+      ""
     ],
     "status": "Completed"
   }
