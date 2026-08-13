@@ -52,6 +52,15 @@
     "status": "Error"
   },
   {
+    "exercise_name": "push-over",
+    "started_at": 1786609967.588215,
+    "completed_at": 1786609971.979919,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "remote-control",
     "started_at": 1786600324.101931,
     "completed_at": 1786600457.844383,
@@ -70,20 +79,20 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786610078.070984,
+    "completed_at": 1786610081.134545,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786600081.099039,
     "completed_at": 1786600083.035791,
     "comments": [
       "You successfully used git init to initialize this folder as a Git repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786609967.588215,
-    "completed_at": 1786609971.979919,
-    "comments": [
-      "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
   },
@@ -97,11 +106,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786610078.070984,
-    "completed_at": 1786610081.134545,
+    "exercise_name": "fork-repo",
+    "started_at": 1786631004.522188,
+    "completed_at": 1786631007.84424,
     "comments": [
-      "Great work! You have successfully fixed the attendance system!"
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   }
