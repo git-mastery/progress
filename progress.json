@@ -1,0 +1,81 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786599881.911315,
+    "completed_at": 1786599883.775105,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786600114.544431,
+    "completed_at": 1786600116.326876,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786609168.023517,
+    "completed_at": 1786609172.63686,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786600984.893173,
+    "completed_at": 1786600986.5031,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786600127.689098,
+    "completed_at": 1786600129.470685,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786602165.796728,
+    "completed_at": 1786602167.405456,
+    "comments": [
+      "C:\\GitMastery\\gitmastery-home\\gitmastery-exercises\\push-over\\push-this"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786600324.101931,
+    "completed_at": 1786600457.844383,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786600103.643773,
+    "completed_at": 1786600105.42534,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786600081.099039,
+    "completed_at": 1786600083.035791,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
