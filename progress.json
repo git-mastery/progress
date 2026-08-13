@@ -1,0 +1,498 @@
+[
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1785950161.520994,
+    "completed_at": 1785950222.214074,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1785949793.423772,
+    "completed_at": 1785949796.250834,
+    "comments": [
+      "Did not add bob.txt",
+      "Did not add alice.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1785949844.661302,
+    "completed_at": 1785949846.305692,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786579517.614134,
+    "completed_at": 1786579519.116376,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786579610.573557,
+    "completed_at": 1786579612.189827,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786579884.330948,
+    "completed_at": 1786579885.992985,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786580012.640487,
+    "completed_at": 1786580014.211237,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786580451.385052,
+    "completed_at": 1786580452.970381,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786581188.323369,
+    "completed_at": 1786581191.333219,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786581240.964103,
+    "completed_at": 1786581244.277978,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786581420.629596,
+    "completed_at": 1786581422.125349,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786581713.51586,
+    "completed_at": 1786581715.778442,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786582340.526975,
+    "completed_at": 1786582345.383323,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786582714.49948,
+    "completed_at": 1786582717.987355,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786593358.089263,
+    "completed_at": 1786593363.759545,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786593395.940658,
+    "completed_at": 1786593400.556098,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786593544.750539,
+    "completed_at": 1786593548.111631,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786593867.069485,
+    "completed_at": 1786593868.61858,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786594531.59445,
+    "completed_at": 1786594533.043508,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786594843.045432,
+    "completed_at": 1786594844.634741,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786595335.781007,
+    "completed_at": 1786595339.127929,
+    "comments": [
+      "The 'april-update' tag is pointing to the wrong commit. It should point to the April commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786595458.092335,
+    "completed_at": 1786595459.762346,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1786595799.326984,
+    "completed_at": 1786595802.075423,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786599370.959251,
+    "completed_at": 1786599373.743452,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786599441.179248,
+    "completed_at": 1786599443.993845,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786599546.09426,
+    "completed_at": 1786599549.008287,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786599641.734087,
+    "completed_at": 1786599642.999874,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786607162.518148,
+    "completed_at": 1786607165.577777,
+    "comments": [
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786607244.630716,
+    "completed_at": 1786607246.022427,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786607623.408618,
+    "completed_at": 1786607624.890009,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1786607848.725948,
+    "completed_at": 1786607850.090867,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1786607970.74839,
+    "completed_at": 1786607972.356381,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1786610072.93792,
+    "completed_at": 1786610076.056979,
+    "comments": [
+      "No commits were made in the 'sleep-line' branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1786610183.881666,
+    "completed_at": 1786610185.331528,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1786611865.292332,
+    "completed_at": 1786611866.833789,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1786612495.11569,
+    "completed_at": 1786612496.560723,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1786612581.097378,
+    "completed_at": 1786612584.119211,
+    "comments": [
+      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1786612655.06,
+    "completed_at": 1786612658.124374,
+    "comments": [
+      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1786612769.981866,
+    "completed_at": 1786612771.414367,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1786612957.386473,
+    "completed_at": 1786612958.904235,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1786613364.690485,
+    "completed_at": 1786613366.172455,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1786613549.127381,
+    "completed_at": 1786613550.546419,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1786613700.109266,
+    "completed_at": 1786613701.537344,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1786613864.719702,
+    "completed_at": 1786613866.109782,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1786613932.305905,
+    "completed_at": 1786613933.67021,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1786614146.973967,
+    "completed_at": 1786614150.014708,
+    "comments": [
+      "You need to merge 'feature-delete' second!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1786614307.725934,
+    "completed_at": 1786614309.264187,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1786614404.062531,
+    "completed_at": 1786614405.553838,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1786614913.673897,
+    "completed_at": 1786614916.959328,
+    "comments": [
+      "The local VWX branch is not created."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1786614966.524433,
+    "completed_at": 1786614968.092847,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1786615073.770058,
+    "completed_at": 1786615075.083101,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1786615142.957049,
+    "completed_at": 1786615146.463225,
+    "comments": [
+      "Remote branch STU still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1786615188.037094,
+    "completed_at": 1786615189.988004,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1786615454.761771,
+    "completed_at": 1786615457.901421,
+    "comments": [
+      "Branch 'list' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1786615599.025673,
+    "completed_at": 1786615600.584468,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  }
+]
