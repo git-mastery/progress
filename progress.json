@@ -1,0 +1,65 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786852516.776552,
+    "completed_at": 1786852520.9625,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786852942.891036,
+    "completed_at": 1786852947.004808,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786851820.680652,
+    "completed_at": 1786851824.831167,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786851928.313582,
+    "completed_at": 1786851932.56823,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786854594.224367,
+    "completed_at": 1786854604.092777,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786854627.055464,
+    "completed_at": 1786854646.354879,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786854721.867322,
+    "completed_at": 1786854746.129985,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  }
+]
