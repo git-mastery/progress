@@ -332,6 +332,15 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786896106.19158,
+    "completed_at": 1786896108.631555,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "tags-add",
     "started_at": 1784472410.059594,
     "completed_at": 1784472412.263485,
@@ -382,6 +391,15 @@
     "completed_at": 1778212931.434801,
     "comments": [
       "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786895600.537307,
+    "completed_at": 1786895603.340056,
+    "comments": [
+      "You have successfully undone the init operation!"
     ],
     "status": "Completed"
   },
