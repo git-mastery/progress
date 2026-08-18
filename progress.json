@@ -231,5 +231,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787095307.453321,
+    "completed_at": 1787095309.620025,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
