@@ -1,0 +1,189 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786640162.658486,
+    "completed_at": 1786640164.006589,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786641095.062802,
+    "completed_at": 1786641096.411563,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786639623.660412,
+    "completed_at": 1786639624.997833,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786638563.72414,
+    "completed_at": 1786638565.091269,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787123168.44039,
+    "completed_at": 1787123267.23499,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787123624.769364,
+    "completed_at": 1787123626.115658,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787125319.043143,
+    "completed_at": 1787125320.970031,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787127227.82404,
+    "completed_at": 1787127229.530315,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787132529.002643,
+    "completed_at": 1787132532.312651,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787132783.6232,
+    "completed_at": 1787132788.139041,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787132884.758816,
+    "completed_at": 1787132887.917662,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787133444.103303,
+    "completed_at": 1787133445.576551,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787134098.024808,
+    "completed_at": 1787134099.507654,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787134314.216026,
+    "completed_at": 1787134315.699933,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787134480.956194,
+    "completed_at": 1787134482.382947,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787134615.04629,
+    "completed_at": 1787134617.490014,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787134899.658938,
+    "completed_at": 1787134903.11516,
+    "comments": [
+      "Missing question Which are the new values in staged files? in answers file."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787134978.153763,
+    "completed_at": 1787134979.44233,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787135220.754914,
+    "completed_at": 1787135222.62705,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787135424.322353,
+    "completed_at": 1787135425.69736,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787135562.669238,
+    "completed_at": 1787135564.026831,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  }
+]
