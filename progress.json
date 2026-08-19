@@ -1,0 +1,202 @@
+[
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786674282.275525,
+    "completed_at": 1786674285.710156,
+    "comments": [
+      "You need to unstage all three attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786674369.631221,
+    "completed_at": 1786674371.325555,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786882262.228241,
+    "completed_at": 1786882266.193254,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786882366.442018,
+    "completed_at": 1786882368.314844,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786885300.826395,
+    "completed_at": 1786885309.248897,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You are not ignoring ignore_me.txt",
+      "You are not ignoring runaway.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787110299.512355,
+    "completed_at": 1787110301.181707,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787110456.988726,
+    "completed_at": 1787110458.732947,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787110624.474163,
+    "completed_at": 1787110627.874095,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787110670.35336,
+    "completed_at": 1787110672.212405,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787110926.131647,
+    "completed_at": 1787110927.952275,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787110996.266659,
+    "completed_at": 1787111020.246866,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787111036.179204,
+    "completed_at": 1787111079.50807,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787111115.776408,
+    "completed_at": 1787111130.642057,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787111143.918778,
+    "completed_at": 1787111151.268266,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787111414.944221,
+    "completed_at": 1787111417.405631,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787111572.422753,
+    "completed_at": 1787111580.189439,
+    "comments": [
+      "You are not ignoring runaway.txt. Find where the file is and fix that."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787111790.172386,
+    "completed_at": 1787111795.868385,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787111868.995724,
+    "completed_at": 1787111872.046806,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787112126.164259,
+    "completed_at": 1787112131.053865,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787112214.070158,
+    "completed_at": 1787112217.203907,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787112412.285914,
+    "completed_at": 1787112414.011663,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787112778.424736,
+    "completed_at": 1787112780.147667,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  }
+]
