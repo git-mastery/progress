@@ -1,0 +1,90 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787107389.029642,
+    "completed_at": 1787107390.500921,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787124480.868338,
+    "completed_at": 1787124482.527606,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787105933.803812,
+    "completed_at": 1787105935.952899,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787107660.698209,
+    "completed_at": 1787107662.22341,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787104715.027081,
+    "completed_at": 1787104716.637025,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787104984.499494,
+    "completed_at": 1787104985.889538,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787125971.931927,
+    "completed_at": 1787126070.814662,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787126902.655579,
+    "completed_at": 1787126904.055333,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787128488.77179,
+    "completed_at": 1787128491.349332,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787130402.496241,
+    "completed_at": 1787130405.017117,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]
