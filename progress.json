@@ -1,0 +1,97 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787213633.156804,
+    "completed_at": 1787213636.515504,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216093.110351,
+    "completed_at": 1787216096.819324,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers.",
+      "Answer for What is the commit message of the commit deb5422795790893f10afffc85d59c2617712842? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216118.700197,
+    "completed_at": 1787216122.251016,
+    "comments": [
+      "Could not find commit with SHA 'd59f909468ac2269575741552cfcaca7b40e6f08'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216327.358888,
+    "completed_at": 1787216331.261196,
+    "comments": [
+      "Answer for What is the commit message of the commit ca920173d5b9a0c25beb5c3888379d1038cd6272? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216384.946494,
+    "completed_at": 1787216388.574322,
+    "comments": [
+      "Answer for What is the commit message of the commit ca920173d5b9a0c25beb5c3888379d1038cd6272? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216468.799064,
+    "completed_at": 1787216472.28003,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216514.202189,
+    "completed_at": 1787216516.188277,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787213457.38591,
+    "completed_at": 1787213460.990061,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787213214.28896,
+    "completed_at": 1787213216.067878,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787213308.434879,
+    "completed_at": 1787213310.220751,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
