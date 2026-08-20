@@ -201,5 +201,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787221959.779844,
+    "completed_at": 1787221967.368673,
+    "comments": [
+      "C:\\Users\\gohmi\\Documents\\Y2Sem1\\CS2103\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
   }
 ]
