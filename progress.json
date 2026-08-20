@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787165481.985855,
+    "completed_at": 1787165485.129178,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787165534.976468,
+    "completed_at": 1787165536.630378,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787163585.987464,
+    "completed_at": 1787163587.672406,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  }
+]
