@@ -228,5 +228,14 @@
       "C:\\Users\\gohmi\\Documents\\Y2Sem1\\CS2103\\gitmastery-exercises\\clone-repo\\shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787222382.434402,
+    "completed_at": 1787222387.807075,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
   }
 ]
