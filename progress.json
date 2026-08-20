@@ -174,5 +174,14 @@
       "There are no new grocery list items added to the shopping list."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787221504.147649,
+    "completed_at": 1787221507.504865,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
   }
 ]
