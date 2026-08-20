@@ -25,5 +25,14 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787210483.048908,
+    "completed_at": 1787210538.318776,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
   }
 ]
