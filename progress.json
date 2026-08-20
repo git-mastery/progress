@@ -1,0 +1,162 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787238854.059507,
+    "completed_at": 1787238856.251934,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787240047.58792,
+    "completed_at": 1787240049.430198,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787238213.048261,
+    "completed_at": 1787238214.999472,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787238963.385582,
+    "completed_at": 1787238965.745015,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787206654.0482,
+    "completed_at": 1787206656.023951,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787206664.676505,
+    "completed_at": 1787206666.501829,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787206717.97056,
+    "completed_at": 1787206719.882042,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787206937.160325,
+    "completed_at": 1787206939.10213,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787206999.207399,
+    "completed_at": 1787207001.132203,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787245632.002585,
+    "completed_at": 1787245675.321898,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787245690.408733,
+    "completed_at": 1787245745.947829,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787246274.723313,
+    "completed_at": 1787246278.391271,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787246307.46686,
+    "completed_at": 1787246311.131875,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787246395.193846,
+    "completed_at": 1787246398.840299,
+    "comments": [
+      "Wrong 'upstream' remote URL"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787246454.267331,
+    "completed_at": 1787246456.136565,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787246878.506831,
+    "completed_at": 1787246882.441134,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787247067.525522,
+    "completed_at": 1787247070.293489,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787247501.664633,
+    "completed_at": 1787247506.74152,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  }
+]
