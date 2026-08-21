@@ -1,0 +1,11 @@
+[
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787294709.201266,
+    "completed_at": 1787294713.496261,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  }
+]
