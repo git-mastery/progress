@@ -1,0 +1,1406 @@
+[
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1774483986.592369,
+    "completed_at": 1774483992.063373,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776701604.290451,
+    "completed_at": 1776701610.780724,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776701692.63625,
+    "completed_at": 1776701700.955456,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776701973.903886,
+    "completed_at": 1776701981.693623,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776703301.420849,
+    "completed_at": 1776703308.258918,
+    "comments": [
+      "No PR is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776703320.710482,
+    "completed_at": 1776703328.238578,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776703442.597932,
+    "completed_at": 1776703448.888351,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776703609.79595,
+    "completed_at": 1776703617.236346,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776704087.91166,
+    "completed_at": 1776704094.769632,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776704100.90312,
+    "completed_at": 1776704108.205278,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776705230.834113,
+    "completed_at": 1776705238.485606,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776705306.479359,
+    "completed_at": 1776705312.786598,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776705328.599242,
+    "completed_at": 1776705335.696549,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776728379.236902,
+    "completed_at": 1776728392.031411,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776728490.336133,
+    "completed_at": 1776728503.515338,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776728764.324863,
+    "completed_at": 1776728774.33074,
+    "comments": [
+      "Cannot access attribute pr on NullPrHelper. Check that your exercise repo's pr_context is properly initialized."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776729125.886715,
+    "completed_at": 1776729140.797539,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776729188.855777,
+    "completed_at": 1776729201.953005,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776729356.694218,
+    "completed_at": 1776729370.219624,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776729639.952695,
+    "completed_at": 1776729655.722848,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776732473.483517,
+    "completed_at": 1776732482.881903,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776732764.494261,
+    "completed_at": 1776732773.885523,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776788194.693126,
+    "completed_at": 1776788202.867603,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776788273.84117,
+    "completed_at": 1776788281.013388,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776788431.964009,
+    "completed_at": 1776788439.120092,
+    "comments": [
+      "The content in Java.txt in main branch is not correct."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "create_pr_from_main",
+    "started_at": 1776788555.529429,
+    "completed_at": 1776788560.816811,
+    "comments": [
+      "Good job creating the PR and pushing commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768888977.619094,
+    "completed_at": 1768888979.392746,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768890695.955612,
+    "completed_at": 1768890701.879193,
+    "comments": [
+      "Local branch 'VWX' is not deleted",
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768890718.856854,
+    "completed_at": 1768890724.021834,
+    "comments": [
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768890746.308366,
+    "completed_at": 1768890751.536659,
+    "comments": [
+      "Local branch 'VWX' is not deleted",
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768890792.284166,
+    "completed_at": 1768890797.192771,
+    "comments": [
+      "Local branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768890846.585446,
+    "completed_at": 1768890849.413276,
+    "comments": [
+      "Excellent! You successfully deleted the VWX branch from both local and remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768891305.325031,
+    "completed_at": 1768891310.307286,
+    "comments": [
+      "Local branch 'VWX' is not deleted",
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768891490.222141,
+    "completed_at": 1768891495.0995,
+    "comments": [
+      "Local branch 'VWX' is not deleted",
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768891523.579066,
+    "completed_at": 1768891528.312633,
+    "comments": [
+      "Remote branch 'VWX' is not deleted"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1768891563.974243,
+    "completed_at": 1768891566.896121,
+    "comments": [
+      "Excellent! You successfully deleted the VWX branch from both local and remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768828335.131174,
+    "completed_at": 1768828338.699823,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768828441.272761,
+    "completed_at": 1768828444.758785,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768828506.402766,
+    "completed_at": 1768828509.745679,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch does not track origin/VWX."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768828546.85323,
+    "completed_at": 1768828550.488128,
+    "comments": [
+      "The local VWX branch does not track origin/VWX."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768835532.066596,
+    "completed_at": 1768835534.04641,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768836968.139699,
+    "completed_at": 1768836972.596021,
+    "comments": [
+      "Branch DEF is missing the Git Mastery start commit"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837152.662232,
+    "completed_at": 1768837157.147441,
+    "comments": [
+      "Branch DEF is missing the Git Mastery start commit"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837380.946652,
+    "completed_at": 1768837383.15108,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837432.864364,
+    "completed_at": 1768837434.982449,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837519.222933,
+    "completed_at": 1768837521.529769,
+    "comments": [
+      "The local STU branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837905.742322,
+    "completed_at": 1768837907.813162,
+    "comments": [
+      "The local STU branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768837955.832736,
+    "completed_at": 1768837957.868582,
+    "comments": [
+      "The local STU branch is not created.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768838015.313126,
+    "completed_at": 1768838017.322881,
+    "comments": [
+      "The local STU branch is not created.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768838057.767568,
+    "completed_at": 1768838059.994956,
+    "comments": [
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768838174.708332,
+    "completed_at": 1768838176.773134,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768839337.528268,
+    "completed_at": 1768839339.618674,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768839367.79728,
+    "completed_at": 1768839369.911081,
+    "comments": [
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768839420.240364,
+    "completed_at": 1768839422.403156,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768839492.008877,
+    "completed_at": 1768839494.268199,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768872361.511493,
+    "completed_at": 1768872363.539646,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768872605.960941,
+    "completed_at": 1768872608.003898,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768872925.452109,
+    "completed_at": 1768872927.507667,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768878489.443687,
+    "completed_at": 1768878496.365751,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1768878611.146378,
+    "completed_at": 1768878615.468752,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769225399.967324,
+    "completed_at": 1769225403.831183,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935544.174559,
+    "completed_at": 1769935551.953447,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935588.647819,
+    "completed_at": 1769935593.683666,
+    "comments": [
+      "The local STU branch does not track origin/STU.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935659.582633,
+    "completed_at": 1769935664.579621,
+    "comments": [
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935678.421532,
+    "completed_at": 1769935682.968487,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935714.800148,
+    "completed_at": 1769935720.435147,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935749.182887,
+    "completed_at": 1769935754.024216,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935803.86208,
+    "completed_at": 1769935808.226414,
+    "comments": [
+      "The local VWX branch does not track origin/VWX.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935857.519085,
+    "completed_at": 1769935861.980005,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769935952.235964,
+    "completed_at": 1769935956.877449,
+    "comments": [
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769936169.328531,
+    "completed_at": 1769936171.483318,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769940390.429862,
+    "completed_at": 1769940395.664371,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1769940467.035277,
+    "completed_at": 1769940469.338454,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770387564.510052,
+    "completed_at": 1770387567.807519,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770393154.480151,
+    "completed_at": 1770393159.715043,
+    "comments": [
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770393246.807122,
+    "completed_at": 1770393251.072494,
+    "comments": [
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770396010.834089,
+    "completed_at": 1770396016.865224,
+    "comments": [
+      "The local STU branch does not track origin/STU.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1770396159.818889,
+    "completed_at": 1770396161.496223,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1773121945.184307,
+    "completed_at": 1773121949.66365,
+    "comments": [
+      "The local STU branch is not created.",
+      "The local VWX branch is not created.",
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770558245.874657,
+    "completed_at": 1770558256.548763,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770558826.185748,
+    "completed_at": 1770558835.35992,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1773122063.682116,
+    "completed_at": 1773122068.76267,
+    "comments": [
+      "Local branch STU still exists.",
+      "Local branch S-to-Z is missing.",
+      "Remote branch STU still exists.",
+      "Remote branch S-to-Z is missing."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768221115.39661,
+    "completed_at": 1768221119.515198,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768221177.559887,
+    "completed_at": 1768221181.885561,
+    "comments": [
+      "All commits are empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768221528.906208,
+    "completed_at": 1768221533.279646,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768221580.107149,
+    "completed_at": 1768221582.298684,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768221756.578416,
+    "completed_at": 1768221760.643425,
+    "comments": [
+      "list index out of range"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768282976.745167,
+    "completed_at": 1768282982.206853,
+    "comments": [
+      "list index out of range"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768283153.655976,
+    "completed_at": 1768283158.242519,
+    "comments": [
+      "list index out of range"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306062.215046,
+    "completed_at": 1768306069.40073,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306106.451079,
+    "completed_at": 1768306114.570354,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306132.727387,
+    "completed_at": 1768306141.528327,
+    "comments": [
+      "Changes to shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306205.703672,
+    "completed_at": 1768306214.257245,
+    "comments": [
+      "You haven't edited shopping-list.txt.",
+      "Changes to shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306444.616458,
+    "completed_at": 1768306449.831633,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306601.839474,
+    "completed_at": 1768306609.019009,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306642.463097,
+    "completed_at": 1768306650.897588,
+    "comments": [
+      "You have committed changes to files other than shopping-list.txt.",
+      "Changes to shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768306705.747844,
+    "completed_at": 1768306710.871403,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768471368.015148,
+    "completed_at": 1768471372.257715,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768471492.806494,
+    "completed_at": 1768471497.763575,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768471524.863706,
+    "completed_at": 1768471527.056252,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1773661359.89716,
+    "completed_at": 1773661367.620628,
+    "comments": [
+      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1773661391.304174,
+    "completed_at": 1773661395.604861,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1773661425.861147,
+    "completed_at": 1773661430.840817,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770015269.7568,
+    "completed_at": 1770015274.373543,
+    "comments": [
+      "Branch 'feature-list' is missing. Did you misspell it?"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770015804.397732,
+    "completed_at": 1770015811.849857,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770015878.090004,
+    "completed_at": 1770015882.574065,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294421.627591,
+    "completed_at": 1770294426.317866,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294453.513723,
+    "completed_at": 1770294460.706185,
+    "comments": [
+      "You are missing the 'development' branch!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294572.44335,
+    "completed_at": 1770294576.387128,
+    "comments": [
+      "You did not branch from the commit with tag v1.0!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294643.979458,
+    "completed_at": 1770294648.232893,
+    "comments": [
+      "You need to merge 'feature-search' first!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294710.845102,
+    "completed_at": 1770294715.277533,
+    "comments": [
+      "Branch 'feature-search' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770294954.851893,
+    "completed_at": 1770294959.254041,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1770295005.356975,
+    "completed_at": 1770295007.689099,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770435780.75411,
+    "completed_at": 1770435785.466309,
+    "comments": [
+      "Local branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770435854.179969,
+    "completed_at": 1770435866.001606,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770435953.663666,
+    "completed_at": 1770435964.687577,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770438287.099747,
+    "completed_at": 1770438298.738799,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770438329.991963,
+    "completed_at": 1770438334.455854,
+    "comments": [
+      "Local branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770438350.472581,
+    "completed_at": 1770438362.27565,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770438421.768444,
+    "completed_at": 1770438433.338198,
+    "comments": [
+      "Remote branch 'improve-loadding' still exists! Remember to rename it to 'improve-loading'"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-branch-rename",
+    "started_at": 1770438522.839605,
+    "completed_at": 1770438532.765728,
+    "comments": [
+      "Great work with renaming the branches on both your local and remote repositories!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1771911383.679575,
+    "completed_at": 1771911385.504971,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1771912061.668942,
+    "completed_at": 1771912065.769863,
+    "comments": [
+      "No module named 'exercise_utils.roles'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773644344.757785,
+    "completed_at": 1773644352.344395,
+    "comments": [
+      "PR number is missing from config."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773647984.291628,
+    "completed_at": 1773647988.848741,
+    "comments": [
+      "PR number is missing from config."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773648207.630695,
+    "completed_at": 1773648212.285874,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773648750.124431,
+    "completed_at": 1773648754.591342,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773648854.380125,
+    "completed_at": 1773648858.825225,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773649045.77532,
+    "completed_at": 1773649050.106302,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773649478.798382,
+    "completed_at": 1773649484.727396,
+    "comments": [
+      "No comment is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773649607.26513,
+    "completed_at": 1773649612.797091,
+    "comments": [
+      "No comment is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1773649974.351792,
+    "completed_at": 1773649977.737608,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1774231812.479716,
+    "completed_at": 1774231815.056792,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1774401694.303144,
+    "completed_at": 1774401698.359443,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1774401902.891241,
+    "completed_at": 1774401907.815646,
+    "comments": [
+      "No comment is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1774401928.745933,
+    "completed_at": 1774401931.348746,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1774485106.182605,
+    "completed_at": 1774485110.956006,
+    "comments": [
+      "No comment is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1775876661.771928,
+    "completed_at": 1775876666.22814,
+    "comments": [
+      "'GitAutograderRepo' object has no attribute 'prs'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1775876873.733796,
+    "completed_at": 1775876879.609031,
+    "comments": [
+      "No comment is found."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1775876957.647979,
+    "completed_at": 1775876960.835267,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776041533.163846,
+    "completed_at": 1776041535.985595,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776041557.296973,
+    "completed_at": 1776041560.671977,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776042656.371003,
+    "completed_at": 1776042659.138405,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776070163.68622,
+    "completed_at": 1776070166.645973,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776092996.990792,
+    "completed_at": 1776093000.003316,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "test-role-marker",
+    "started_at": 1776093033.01788,
+    "completed_at": 1776093035.799279,
+    "comments": [
+      "Good job on adding a comment to the PR!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768204070.181925,
+    "completed_at": 1768204074.358343,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768204228.445305,
+    "completed_at": 1768204230.468629,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
