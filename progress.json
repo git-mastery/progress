@@ -1,0 +1,118 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787233673.464061,
+    "completed_at": 1787233676.994174,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787233754.561942,
+    "completed_at": 1787233757.96793,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787233806.881114,
+    "completed_at": 1787233810.504363,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787233849.559641,
+    "completed_at": 1787233851.480066,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787234257.05629,
+    "completed_at": 1787234260.769458,
+    "comments": [
+      "Answer for What is the commit message of the commit 3847f8da715a2afd0832b06e3cb3653678e9af8d? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787234282.272534,
+    "completed_at": 1787234285.943253,
+    "comments": [
+      "Answer for What is the commit message of the commit 3847f8da715a2afd0832b06e3cb3653678e9af8d? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787234391.019364,
+    "completed_at": 1787234394.651678,
+    "comments": [
+      "Answer for What is the commit message of the commit 3847f8da715a2afd0832b06e3cb3653678e9af8d? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787234485.62963,
+    "completed_at": 1787234487.875781,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787235210.998666,
+    "completed_at": 1787235275.739289,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787235291.291091,
+    "completed_at": 1787235297.748093,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787235333.410116,
+    "completed_at": 1787235340.463619,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787233546.731881,
+    "completed_at": 1787233548.522453,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787233429.174724,
+    "completed_at": 1787233431.368731,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
