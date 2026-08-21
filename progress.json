@@ -1,0 +1,380 @@
+[
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787221959.779844,
+    "completed_at": 1787221967.368673,
+    "comments": [
+      "C:\\Users\\gohmi\\Documents\\Y2Sem1\\CS2103\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787222014.515628,
+    "completed_at": 1787222021.485377,
+    "comments": [
+      "C:\\Users\\gohmi\\Documents\\Y2Sem1\\CS2103\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787222172.470828,
+    "completed_at": 1787222179.852248,
+    "comments": [
+      "C:\\Users\\gohmi\\Documents\\Y2Sem1\\CS2103\\gitmastery-exercises\\clone-repo\\shapes"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787222382.434402,
+    "completed_at": 1787222387.807075,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787222718.621835,
+    "completed_at": 1787222721.512543,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787221818.498681,
+    "completed_at": 1787221822.899465,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787213633.156804,
+    "completed_at": 1787213636.515504,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787221454.776233,
+    "completed_at": 1787221460.186749,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787221504.147649,
+    "completed_at": 1787221507.504865,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787220600.387841,
+    "completed_at": 1787220615.599438,
+    "comments": [
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787220731.342132,
+    "completed_at": 1787220743.739994,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787218134.099537,
+    "completed_at": 1787218135.796296,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216093.110351,
+    "completed_at": 1787216096.819324,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers.",
+      "Answer for What is the commit message of the commit deb5422795790893f10afffc85d59c2617712842? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216118.700197,
+    "completed_at": 1787216122.251016,
+    "comments": [
+      "Could not find commit with SHA 'd59f909468ac2269575741552cfcaca7b40e6f08'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216327.358888,
+    "completed_at": 1787216331.261196,
+    "comments": [
+      "Answer for What is the commit message of the commit ca920173d5b9a0c25beb5c3888379d1038cd6272? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216384.946494,
+    "completed_at": 1787216388.574322,
+    "comments": [
+      "Answer for What is the commit message of the commit ca920173d5b9a0c25beb5c3888379d1038cd6272? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216468.799064,
+    "completed_at": 1787216472.28003,
+    "comments": [
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787216514.202189,
+    "completed_at": 1787216516.188277,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787219896.323419,
+    "completed_at": 1787219901.913434,
+    "comments": [
+      "You should have made a separate commit!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787220267.399253,
+    "completed_at": 1787220271.253821,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787217627.569338,
+    "completed_at": 1787217675.158931,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787217684.255214,
+    "completed_at": 1787217694.418384,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787276052.007065,
+    "completed_at": 1787276055.947785,
+    "comments": [
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787276254.333225,
+    "completed_at": 1787276257.684624,
+    "comments": [
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787276371.504544,
+    "completed_at": 1787276373.136483,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787225946.159652,
+    "completed_at": 1787225951.277492,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787225974.522171,
+    "completed_at": 1787225977.255383,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787277112.519765,
+    "completed_at": 1787277114.467266,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787277500.888327,
+    "completed_at": 1787277502.6162,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787213457.38591,
+    "completed_at": 1787213460.990061,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787221610.522185,
+    "completed_at": 1787221613.433891,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787224346.911798,
+    "completed_at": 1787224352.383151,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787224556.49482,
+    "completed_at": 1787224559.491994,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787224859.928412,
+    "completed_at": 1787224862.93996,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787213214.28896,
+    "completed_at": 1787213216.067878,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787213308.434879,
+    "completed_at": 1787213310.220751,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787221396.947091,
+    "completed_at": 1787221399.892409,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787223284.126458,
+    "completed_at": 1787223287.179147,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787295322.970005,
+    "completed_at": 1787295329.661294,
+    "comments": [
+      "Tag v1.0 is missing, did you push it to the remote?",
+      "Tag v2.0 is missing, did you push it to the remote?",
+      "Tag beta is still on the remote!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787295517.593518,
+    "completed_at": 1787295521.757162,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787295661.195715,
+    "completed_at": 1787295663.706789,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  }
+]
