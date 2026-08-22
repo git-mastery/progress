@@ -1,0 +1,740 @@
+[
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787032491.972405,
+    "completed_at": 1787032495.167092,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787033197.822217,
+    "completed_at": 1787033199.608788,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787032222.081927,
+    "completed_at": 1787032224.878214,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787020695.149612,
+    "completed_at": 1787020698.415026,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787020789.337725,
+    "completed_at": 1787020790.704009,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787031564.296155,
+    "completed_at": 1787031568.248815,
+    "comments": [
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787031605.875685,
+    "completed_at": 1787031608.234193,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787029749.994523,
+    "completed_at": 1787029752.917268,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787029810.824946,
+    "completed_at": 1787029812.232276,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787021877.630082,
+    "completed_at": 1787021880.479687,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787021943.635036,
+    "completed_at": 1787021946.506677,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787022005.758047,
+    "completed_at": 1787022008.5773,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787035018.074129,
+    "completed_at": 1787035020.326248,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787031221.427128,
+    "completed_at": 1787031225.887764,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787022545.761499,
+    "completed_at": 1787022588.697368,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039082.586735,
+    "completed_at": 1787039086.402327,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039122.890847,
+    "completed_at": 1787039126.945916,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039193.713463,
+    "completed_at": 1787039197.300497,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039408.527704,
+    "completed_at": 1787039412.639979,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039533.235051,
+    "completed_at": 1787039537.370733,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039732.010549,
+    "completed_at": 1787039736.123857,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787039780.729468,
+    "completed_at": 1787039784.96994,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040118.774719,
+    "completed_at": 1787040122.893378,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040218.955351,
+    "completed_at": 1787040223.194023,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040246.600473,
+    "completed_at": 1787040250.377755,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040334.768751,
+    "completed_at": 1787040339.170774,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040551.012268,
+    "completed_at": 1787040554.811335,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787040596.832279,
+    "completed_at": 1787040600.89947,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787125631.821074,
+    "completed_at": 1787125635.569457,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787125710.705447,
+    "completed_at": 1787125713.600597,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787324898.088466,
+    "completed_at": 1787324902.490369,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers.",
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787324937.665491,
+    "completed_at": 1787324943.688585,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers.",
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787325193.842438,
+    "completed_at": 1787325195.335125,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787020439.731037,
+    "completed_at": 1787020442.72146,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787020498.757862,
+    "completed_at": 1787020500.197237,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787021003.186237,
+    "completed_at": 1787021004.503378,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787035505.294538,
+    "completed_at": 1787035507.222596,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787036080.429557,
+    "completed_at": 1787036086.443069,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787035683.76366,
+    "completed_at": 1787035685.703904,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786888783.376445,
+    "completed_at": 1786888785.066845,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786888927.92146,
+    "completed_at": 1786888929.431657,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787330423.393628,
+    "completed_at": 1787330424.943308,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034074.980813,
+    "completed_at": 1787034078.984125,
+    "comments": [
+      "Missing question In February, who was replaced in the Wednesday duty roster? in answers file."
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034145.653851,
+    "completed_at": 1787034149.548767,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034197.302635,
+    "completed_at": 1787034200.923694,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034341.852133,
+    "completed_at": 1787034345.987027,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034453.373809,
+    "completed_at": 1787034457.237329,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034807.139052,
+    "completed_at": 1787034811.075348,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787034893.573245,
+    "completed_at": 1787034897.717118,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787125801.910716,
+    "completed_at": 1787125803.306921,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787331015.14605,
+    "completed_at": 1787331018.453871,
+    "comments": [
+      "Answer for What's sum of values in south.csv on Jan 11th? is not right.",
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787331321.130857,
+    "completed_at": 1787331324.730696,
+    "comments": [
+      "Answer for What's sum of values in west.csv on Jan 09th? is not right.",
+      "Answer for What's sum of values in north.csv on Jan 05th? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787331429.235376,
+    "completed_at": 1787331430.945401,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787332211.316052,
+    "completed_at": 1787332212.653728,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787332895.118991,
+    "completed_at": 1787332896.667611,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787333564.464679,
+    "completed_at": 1787333567.393622,
+    "comments": [
+      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787333597.869364,
+    "completed_at": 1787333601.09542,
+    "comments": [
+      "You have not fixed the greet function in greet.py"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787333650.183192,
+    "completed_at": 1787333653.044946,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787333682.284765,
+    "completed_at": 1787333684.17673,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787334900.963809,
+    "completed_at": 1787334903.016508,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787335355.649095,
+    "completed_at": 1787335357.028359,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787335552.985096,
+    "completed_at": 1787335556.30035,
+    "comments": [
+      "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787335639.004156,
+    "completed_at": 1787335640.594512,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1787374090.798365,
+    "completed_at": 1787374092.472825,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1787374279.219079,
+    "completed_at": 1787374280.836025,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787374462.631599,
+    "completed_at": 1787374464.315412,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1787374587.77346,
+    "completed_at": 1787374591.152011,
+    "comments": [
+      "The merge has not been undone properly."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1787374647.139631,
+    "completed_at": 1787374648.672806,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787375080.834536,
+    "completed_at": 1787375082.482722,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787375246.577184,
+    "completed_at": 1787375248.268506,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1787408604.922297,
+    "completed_at": 1787408606.287555,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787409223.807162,
+    "completed_at": 1787409225.408687,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787409665.621786,
+    "completed_at": 1787409669.249089,
+    "comments": [
+      "Branch 'feature-delete' still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787409705.217556,
+    "completed_at": 1787409706.677321,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1787409914.995994,
+    "completed_at": 1787409916.306165,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787410436.223263,
+    "completed_at": 1787410437.931211,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787410610.424733,
+    "completed_at": 1787410611.828058,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787410822.681083,
+    "completed_at": 1787410827.07649,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787410960.820465,
+    "completed_at": 1787410962.181811,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
