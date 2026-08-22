@@ -278,15 +278,5 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787415550.325882,
-    "completed_at": 1787415553.851918,
-    "comments": [
-      "You should have merged feature/dashboard next.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
