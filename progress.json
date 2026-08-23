@@ -284,5 +284,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787503720.986508,
+    "completed_at": 1787503725.007015,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
