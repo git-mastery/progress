@@ -248,5 +248,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks sensors_diff/verify.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 21117 ms: Could not connect to server\nfatal: could not fetch ad8d4be8afccd86b5b1c948e794d13174c3df7c0 from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787489432.959129,
+    "completed_at": 1787489434.775604,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
