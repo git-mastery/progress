@@ -596,5 +596,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787484207.08089,
+    "completed_at": 1787484210.107615,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
+    ],
+    "status": "Incomplete"
   }
 ]
