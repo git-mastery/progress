@@ -320,5 +320,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1787457698.461208,
+    "completed_at": 1787457700.0315,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
   }
 ]
