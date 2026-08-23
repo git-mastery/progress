@@ -145,6 +145,24 @@
     "status": "Incomplete"
   },
   {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787484207.08089,
+    "completed_at": 1787484210.107615,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787484646.123127,
+    "completed_at": 1787484647.511808,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "glossary-branch-pull",
     "started_at": 1786945250.423194,
     "completed_at": 1786945253.340621,
@@ -598,20 +616,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "glossary-branch-delete",
-    "started_at": 1787484207.08089,
-    "completed_at": 1787484210.107615,
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787485339.678723,
+    "completed_at": 1787485341.35211,
     "comments": [
-      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-delete",
-    "started_at": 1787484646.123127,
-    "completed_at": 1787484647.511808,
-    "comments": [
-      "Great job deleting the VWX branch!"
+      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
