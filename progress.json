@@ -293,5 +293,14 @@
       "You aren't currently on the main branch. Checkout to that branch and try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787503737.38848,
+    "completed_at": 1787503739.195684,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
