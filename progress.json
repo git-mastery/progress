@@ -311,25 +311,5 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-rename",
-    "started_at": 1787570088.645694,
-    "completed_at": 1787570092.608337,
-    "comments": [
-      "Remote branch STU still exists.",
-      "Remote branch S-to-Z is missing."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-rename",
-    "started_at": 1787570184.482411,
-    "completed_at": 1787570188.457983,
-    "comments": [
-      "Local branch 'STU' was not renamed to 'S-to-Z'!",
-      "If needed, reset the repository using \"gitmastery progress reset\" and start again."
-    ],
-    "status": "Incomplete"
   }
 ]
