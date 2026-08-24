@@ -215,23 +215,5 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1787548892.123236,
-    "completed_at": 1787548893.504858,
-    "comments": [
-      "Great work resolving the merge conflict!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1787548999.445366,
-    "completed_at": 1787549002.230746,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
   }
 ]
