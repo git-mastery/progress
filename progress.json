@@ -1,0 +1,114 @@
+[
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535453.20639,
+    "completed_at": 1770535457.208942,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770531936.969261,
+    "completed_at": 1770531941.188216,
+    "comments": [
+      "Branch 'PQR' has not been pushed to the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770532278.718108,
+    "completed_at": 1770532280.590522,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770532306.046575,
+    "completed_at": 1770532310.265343,
+    "comments": [
+      "Branch 'PQR' has not been pushed to the remote."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1770532367.17868,
+    "completed_at": 1770532369.072673,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770536003.565236,
+    "completed_at": 1770536014.298047,
+    "comments": [
+      "Local branch STU still exists.",
+      "Local branch S-to-Z is missing.",
+      "Remote branch STU still exists.",
+      "Remote branch S-to-Z is missing."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770536253.817628,
+    "completed_at": 1770536264.424959,
+    "comments": [
+      "Local branch STU still exists.",
+      "Remote branch STU still exists."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1770536325.794042,
+    "completed_at": 1770536333.883837,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1773204568.516126,
+    "completed_at": 1773204571.843492,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1773204751.750258,
+    "completed_at": 1773204756.971794,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770266341.632497,
+    "completed_at": 1770266341.756684,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1770266416.551904,
+    "completed_at": 1770266424.163808,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
