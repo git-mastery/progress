@@ -224,5 +224,14 @@
       "Great work resolving the merge conflict!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787549489.015487,
+    "completed_at": 1787549490.255754,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
   }
 ]
