@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787542379.430732,
+    "completed_at": 1787542383.87648,
+    "comments": [
+      "Missing lightweight tag \"first-pilot\"."
+    ],
+    "status": "Incomplete"
+  }
+]
