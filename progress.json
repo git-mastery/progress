@@ -1,0 +1,164 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787211892.106218,
+    "completed_at": 1787211895.594684,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787211934.936817,
+    "completed_at": 1787211936.465156,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787212023.610575,
+    "completed_at": 1787212025.080606,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787214745.317219,
+    "completed_at": 1787214749.10469,
+    "comments": [
+      "Answer for What is the commit message of the commit f28b92c4704dfebda35c8bacba8df3d1a1b94d65? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787214852.146363,
+    "completed_at": 1787214853.688749,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786945704.40163,
+    "completed_at": 1786945705.858454,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787212438.569234,
+    "completed_at": 1787212440.255684,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786943890.65516,
+    "completed_at": 1786943891.972687,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786944010.678408,
+    "completed_at": 1786944013.624843,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786944143.553474,
+    "completed_at": 1786944144.935459,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787301159.824667,
+    "completed_at": 1787301230.690536,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787301287.624454,
+    "completed_at": 1787301294.052576,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787663183.149738,
+    "completed_at": 1787663184.721889,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787664609.452009,
+    "completed_at": 1787664613.048129,
+    "comments": [
+      "You cannot use fast forwarding on feature/login when merging.",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671213.473538,
+    "completed_at": 1787671216.595481,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Delete feature-search branch' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671834.426337,
+    "completed_at": 1787671837.574091,
+    "comments": [
+      "Expected commit message of 'Add the delete feature', got 'Edit features.md' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671895.571899,
+    "completed_at": 1787671898.57423,
+    "comments": [
+      "Expected commit message of 'None', got 'Add the delete feature' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787671998.631941,
+    "completed_at": 1787672000.119185,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  }
+]
