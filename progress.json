@@ -68,5 +68,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787729219.431141,
+    "completed_at": 1787729220.7105,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
