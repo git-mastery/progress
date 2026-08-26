@@ -1,0 +1,155 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787217333.877535,
+    "completed_at": 1787217336.405679,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787216172.065711,
+    "completed_at": 1787216174.4259,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787669302.65941,
+    "completed_at": 1787669305.266032,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787669638.22831,
+    "completed_at": 1787669642.635385,
+    "comments": [
+      "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787669793.965022,
+    "completed_at": 1787669798.118891,
+    "comments": [
+      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787670008.146483,
+    "completed_at": 1787670012.407228,
+    "comments": [
+      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787735931.482608,
+    "completed_at": 1787735934.078125,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787736083.709379,
+    "completed_at": 1787736086.124134,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787736505.522407,
+    "completed_at": 1787736507.859261,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787736824.928797,
+    "completed_at": 1787736827.711616,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1787737315.349897,
+    "completed_at": 1787737317.629863,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787738757.670461,
+    "completed_at": 1787738763.295055,
+    "comments": [
+      "Branch 'feature-delete' still exists! Remember to delete it after merging!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787738825.302085,
+    "completed_at": 1787738830.03394,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787738869.763019,
+    "completed_at": 1787738872.608298,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787739925.552834,
+    "completed_at": 1787739930.376513,
+    "comments": [
+      "Contents of 'features.md' is not valid at commit with message 'Add the search feature'! Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1787748380.747193,
+    "completed_at": 1787748384.378457,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787748921.480858,
+    "completed_at": 1787748925.494133,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  }
+]
