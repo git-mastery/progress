@@ -50,5 +50,14 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1787728859.522205,
+    "completed_at": 1787728860.811954,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
