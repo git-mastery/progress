@@ -1,0 +1,301 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786520897.247838,
+    "completed_at": 1786520900.282828,
+    "comments": [
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786519828.445422,
+    "completed_at": 1786519831.592574,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786519908.53317,
+    "completed_at": 1786519911.306162,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786968406.689058,
+    "completed_at": 1786968410.039808,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786969664.965208,
+    "completed_at": 1786969669.738929,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786969723.823049,
+    "completed_at": 1786969728.166309,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786969894.382116,
+    "completed_at": 1786969897.689979,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787042009.161648,
+    "completed_at": 1787042012.046366,
+    "comments": [
+      "Remote 'alice-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-alice"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787042145.345365,
+    "completed_at": 1787042148.553478,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787042228.423405,
+    "completed_at": 1787042229.683553,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787043822.544534,
+    "completed_at": 1787043825.585448,
+    "comments": [
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787043913.899235,
+    "completed_at": 1787043915.419122,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787044377.307498,
+    "completed_at": 1787044378.666595,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787044589.189202,
+    "completed_at": 1787044590.476588,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787044916.536619,
+    "completed_at": 1787044921.110112,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787045471.364759,
+    "completed_at": 1787045472.723659,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787068659.42914,
+    "completed_at": 1787068660.704363,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787069050.260445,
+    "completed_at": 1787069051.598845,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787069252.44405,
+    "completed_at": 1787069253.701805,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787832379.515779,
+    "completed_at": 1787832381.015957,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787832954.391705,
+    "completed_at": 1787832955.675078,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787833282.00568,
+    "completed_at": 1787833283.489017,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787833439.44272,
+    "completed_at": 1787833440.887359,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787833879.248263,
+    "completed_at": 1787833880.738183,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-rename",
+    "started_at": 1787834009.290231,
+    "completed_at": 1787834010.660805,
+    "comments": [
+      "Great work with renaming the branches on your local repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1787834164.342205,
+    "completed_at": 1787834165.750496,
+    "comments": [
+      "Great job using git branch to delete both merged and unmerged branches!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787834507.591889,
+    "completed_at": 1787834508.993378,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787834921.423349,
+    "completed_at": 1787834922.96134,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1787835501.860268,
+    "completed_at": 1787835503.331427,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787835938.929314,
+    "completed_at": 1787835942.245182,
+    "comments": [
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787836004.67293,
+    "completed_at": 1787836006.1697,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787836140.246337,
+    "completed_at": 1787836142.051774,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787836308.506178,
+    "completed_at": 1787836313.279833,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
+  }
+]
