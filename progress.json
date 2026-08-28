@@ -1,0 +1,100 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787199590.932686,
+    "completed_at": 1787199592.489606,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787200109.3929,
+    "completed_at": 1787200112.220951,
+    "comments": [
+      "Answer for What is the commit message of the commit dba7058bd5dd69c36f80807463cb81cefc9cd335? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787200217.900876,
+    "completed_at": 1787200219.255183,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787199123.128686,
+    "completed_at": 1787199124.449286,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787198824.075858,
+    "completed_at": 1787198825.38828,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787198938.008636,
+    "completed_at": 1787198939.44226,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787390098.422807,
+    "completed_at": 1787390188.89707,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787390613.996583,
+    "completed_at": 1787390617.216159,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787390746.099869,
+    "completed_at": 1787390747.556304,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787885919.964798,
+    "completed_at": 1787885923.009265,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787886166.583651,
+    "completed_at": 1787886167.93034,
+    "comments": [
+      "Great work! All required branches are present and correctly set up."
+    ],
+    "status": "Completed"
+  }
+]
