@@ -297,33 +297,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "side-track",
-    "started_at": 1787670596.543036,
-    "completed_at": 1787670598.116079,
-    "comments": [
-      "Great work with using git branch and git checkout to fix the bugs!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1788080667.400171,
-    "completed_at": 1788080670.707467,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1788080703.941743,
-    "completed_at": 1788080707.236121,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "stage-fright",
     "started_at": 1786788651.19135,
     "completed_at": 1786788653.773224,
@@ -394,14 +367,5 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1788080773.23313,
-    "completed_at": 1788080776.457011,
-    "comments": [
-      "You aren't currently on the main branch. Checkout to that branch and try again!"
-    ],
-    "status": "Incomplete"
   }
 ]
