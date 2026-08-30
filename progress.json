@@ -394,5 +394,14 @@
       "The local VWX branch does not track origin/VWX."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1788106996.089508,
+    "completed_at": 1788106999.761525,
+    "comments": [
+      "The local VWX branch does not track origin/VWX."
+    ],
+    "status": "Incomplete"
   }
 ]
