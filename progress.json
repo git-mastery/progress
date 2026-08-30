@@ -171,5 +171,14 @@
       "Contents of 'features.md' is not valid! Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1788077206.716003,
+    "completed_at": 1788077209.669678,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Merge' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
