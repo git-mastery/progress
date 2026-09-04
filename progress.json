@@ -1,0 +1,192 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1788254734.157601,
+    "completed_at": 1788254737.711934,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 71fdf65a3088a861da84e837dd76473bacbb8eea? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1788254792.442181,
+    "completed_at": 1788254794.159809,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1788270817.641412,
+    "completed_at": 1788270912.262854,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1788271010.871808,
+    "completed_at": 1788271036.167747,
+    "comments": [
+      "The remote repository url you provided either does not exist or is private. Try again!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1788271222.514154,
+    "completed_at": 1788271239.612205,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1788272592.539118,
+    "completed_at": 1788272594.966529,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1788274394.958279,
+    "completed_at": 1788274397.864603,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1788319040.927915,
+    "completed_at": 1788319047.423198,
+    "comments": [
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1788319385.391929,
+    "completed_at": 1788319389.869248,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1788323326.675327,
+    "completed_at": 1788323330.809504,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1788324730.914653,
+    "completed_at": 1788324734.622403,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1788331364.714647,
+    "completed_at": 1788331366.341895,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1788487336.744142,
+    "completed_at": 1788487338.581102,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1788490694.099152,
+    "completed_at": 1788490698.184173,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1788490817.257978,
+    "completed_at": 1788490819.258642,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1788491059.62378,
+    "completed_at": 1788491061.722595,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1788491355.7986,
+    "completed_at": 1788491359.096363,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1788494469.215728,
+    "completed_at": 1788494472.959569,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1788494682.087402,
+    "completed_at": 1788494683.896221,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1788496607.837109,
+    "completed_at": 1788496609.601455,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1788506594.935579,
+    "completed_at": 1788506596.431076,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  }
+]
