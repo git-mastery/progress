@@ -426,5 +426,14 @@
       "No module named 'exercise_utils.exercise_config'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "create-pr-from-main",
+    "started_at": 1788596551.012437,
+    "completed_at": 1788596552.431804,
+    "comments": [
+      "'GitAutograderExercise' object has no attribute 'fetch_pr'"
+    ],
+    "status": "Error"
   }
 ]
