@@ -223,6 +223,33 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1788643755.226174,
+    "completed_at": 1788643757.225455,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1788644104.351863,
+    "completed_at": 1788644108.238472,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Add the search feature\n\nSquashed commit of the following:\n\ncommit 6d04b05582a175bec2a97fb25a604ad68c3043a3\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:43:46 2025 +0800\n\n    Add more details on the search feature\n\ncommit cf60f821a837456dc7598b17184bab9c204fe44a\nAuthor: damithc <1673303+damithc@users.noreply.github.com>\nDate:   Fri Sep 26 23:39:41 2025 +0800\n\n    Mention feature for searching books' instead."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1788644301.067521,
+    "completed_at": 1788644303.087753,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "push-over",
     "started_at": 1787237860.68153,
     "completed_at": 1787237862.865842,
