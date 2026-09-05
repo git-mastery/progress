@@ -390,5 +390,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1788596254.427748,
+    "completed_at": 1788596255.701938,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
