@@ -177,5 +177,14 @@
       "\"v1.0\" should be an annotated tag, not a lightweight tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1788706320.911307,
+    "completed_at": 1788706324.51526,
+    "comments": [
+      "\"v1.0\" should point to the commit that updates March duty roster."
+    ],
+    "status": "Incomplete"
   }
 ]
