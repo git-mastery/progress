@@ -224,5 +224,15 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1788699614.114733,
+    "completed_at": 1788699618.56398,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
