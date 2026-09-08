@@ -1,11 +1,18 @@
 [
   {
-    "exercise_name": "undo-init",
-    "started_at": 1786869036.221171,
-    "completed_at": 1786869037.533827,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786872693.724237,
+    "completed_at": 1786872694.985318,
     "comments": [
-      "You have successfully undone the init operation!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786892646.317344,
+    "completed_at": 1786892647.788446,
+    "comments": [],
     "status": "Completed"
   },
   {
@@ -14,15 +21,6 @@
     "completed_at": 1786871316.669409,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786872693.724237,
-    "completed_at": 1786872694.985318,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
   },
@@ -36,10 +34,21 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "log-and-order",
-    "started_at": 1786892646.317344,
-    "completed_at": 1786892647.788446,
-    "comments": [],
+    "exercise_name": "undo-init",
+    "started_at": 1786869036.221171,
+    "completed_at": 1786869037.533827,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1788851121.181493,
+    "completed_at": 1788851178.250548,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   }
 ]
