@@ -315,15 +315,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-previous",
-    "started_at": 1787761519.979705,
-    "completed_at": 1787761523.057175,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-bender",
     "started_at": 1787761784.090094,
     "completed_at": 1787761785.40421,
@@ -440,23 +431,5 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1788856556.767651,
-    "completed_at": 1788856559.840893,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1788856759.418297,
-    "completed_at": 1788856762.504295,
-    "comments": [
-      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
-    ],
-    "status": "Incomplete"
   }
 ]
