@@ -266,32 +266,5 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1788869485.273486,
-    "completed_at": 1788869490.022594,
-    "comments": [
-      "You are missing the 'development' branch!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1788869594.365222,
-    "completed_at": 1788869618.644975,
-    "comments": [
-      "Contents of 'features.md' is not valid! Try again!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1788869679.438402,
-    "completed_at": 1788869683.822309,
-    "comments": [
-      "Contents of 'features.md' is not valid! Try again!"
-    ],
-    "status": "Incomplete"
   }
 ]
