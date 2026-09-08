@@ -284,5 +284,14 @@
       "Contents of 'features.md' is not valid! Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1788869679.438402,
+    "completed_at": 1788869683.822309,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
