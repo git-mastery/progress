@@ -294,5 +294,14 @@
       "Only one of the two starting branches can be fast-forward merged into 'main'. Do not create new branches."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1788944636.684891,
+    "completed_at": 1788944639.96681,
+    "comments": [
+      "You must use a fast-forward merge to bring a branch into 'main'."
+    ],
+    "status": "Incomplete"
   }
 ]
