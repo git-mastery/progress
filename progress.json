@@ -267,5 +267,14 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1789024879.157686,
+    "completed_at": 1789024880.578697,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
