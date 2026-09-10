@@ -186,5 +186,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1789024503.868639,
+    "completed_at": 1789024507.23946,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
   }
 ]
