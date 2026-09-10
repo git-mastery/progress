@@ -410,14 +410,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1789036418.259245,
-    "completed_at": 1789036422.135726,
-    "comments": [
-      "You do not have 2 commits on the bug-fix branch"
-    ],
-    "status": "Incomplete"
   }
 ]
