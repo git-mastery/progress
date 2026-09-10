@@ -195,5 +195,14 @@
       "Invalid answers format: missing question(s) or answer(s) or both"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1789024523.352669,
+    "completed_at": 1789024524.907917,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
