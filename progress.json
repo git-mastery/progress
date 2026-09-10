@@ -294,5 +294,14 @@
       "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1789025838.832226,
+    "completed_at": 1789025840.444297,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
