@@ -430,5 +430,14 @@
       "The local VWX branch does not track origin/VWX."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1789028516.415756,
+    "completed_at": 1789028518.748224,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
   }
 ]
