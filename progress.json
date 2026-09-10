@@ -168,5 +168,14 @@
       "Answer for What's sum of values in south.csv on Jan 11th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1789024291.302047,
+    "completed_at": 1789024292.768113,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
