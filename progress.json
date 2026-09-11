@@ -324,5 +324,14 @@
       "You are missing the 'development' branch!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1789109823.803562,
+    "completed_at": 1789109825.37616,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
