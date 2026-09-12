@@ -95,5 +95,15 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1789201206.971283,
+    "completed_at": 1789201210.057545,
+    "comments": [
+      "Answer for In February, who was replaced in the Wednesday duty roster? is not right.",
+      "Answer for In February, who joined the Tuesday duty roster? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
