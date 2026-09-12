@@ -105,5 +105,14 @@
       "Answer for In February, who joined the Tuesday duty roster? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1789201222.677029,
+    "completed_at": 1789201224.125057,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
