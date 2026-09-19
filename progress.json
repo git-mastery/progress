@@ -321,5 +321,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1789797572.007946,
+    "completed_at": 1789797573.832194,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
