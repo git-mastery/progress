@@ -284,5 +284,14 @@
       "You do not have 2 commits on the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1793685723.727186,
+    "completed_at": 1793685729.796434,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
