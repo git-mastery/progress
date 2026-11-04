@@ -365,5 +365,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1793782813.365954,
+    "completed_at": 1793782820.743196,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Save local progress before squash merge' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
